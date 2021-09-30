@@ -1,0 +1,1400 @@
+﻿Log file open, 09/30/21 06:36:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HW_Yakovlev_A
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.248168
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17155196
+LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1660 Ti
+LogInit: Compiled (64-bit): Aug 13 2021 06:13:13
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=AnkouDW -epicuserid=c96c577bdf03459089030a7cdc3bbb06 -epiclocale=ru -epicsandboxid=ue
+LogInit: Base Directory: e:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Engine.ini]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Engine.ini]
+[2021.09.30-03.37.07:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Engine.ini]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Engine.ini]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.09.30-03.37.07:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Engine.ini]
+[2021.09.30-03.37.07:494][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Engine.ini]
+[2021.09.30-03.37.07:509][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.30-03.37.07:509][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-03.37.07:509][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.30-03.37.07:510][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.30-03.37.07:511][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.30-03.37.07:511][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.09.30-03.37.07:511][  0]LogHAL: Display: Platform has ~ 8 GB [8544997376 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.09.30-03.37.07:511][  0]LogInit: Going up to parent DeviceProfile []
+[2021.09.30-03.37.07:511][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.30-03.37.07:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.30-03.37.07:512][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.30-03.37.07:513][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.09.30-03.37.07:545][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.09.30-03.37.07:545][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.09.30-03.37.07:545][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.09.30-03.37.07:545][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Engine.ini]
+[2021.09.30-03.37.07:545][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Config/Windows/Editor.ini]
+[2021.09.30-03.37.07:545][  0]LogInit: Computer: ADW
+[2021.09.30-03.37.07:546][  0]LogInit: User: AnkouDW
+[2021.09.30-03.37.07:546][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.09.30-03.37.07:546][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.09.30-03.37.07:546][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2021.09.30-03.37.07:546][  0]LogMemory: Platform Memory Stats for Windows
+[2021.09.30-03.37.07:546][  0]LogMemory: Process Physical Memory: 139.62 MB used, 139.62 MB peak
+[2021.09.30-03.37.07:546][  0]LogMemory: Process Virtual Memory: 125.24 MB used, 125.24 MB peak
+[2021.09.30-03.37.07:546][  0]LogMemory: Physical Memory: 5089.02 MB used,  3060.12 MB free, 8149.14 MB total
+[2021.09.30-03.37.07:546][  0]LogMemory: Virtual Memory: 134195248.00 MB used,  22476.80 MB free, 134217728.00 MB total
+[2021.09.30-03.37.07:557][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.09.30-03.37.09:076][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.09.30-03.37.09:248][  0]LogInit: Using OS detected language (ru-RU).
+[2021.09.30-03.37.09:248][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.09.30-03.37.10:111][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.09.30-03.37.10:111][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.09.30-03.37.10:111][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.09.30-03.37.10:111][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.09.30-03.37.10:112][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.09.30-03.37.10:112][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.09.30-03.37.10:112][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.09.30-03.37.10:112][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.09.30-03.37.10:237][  0]LogInit: Setting process to per monitor DPI aware
+[2021.09.30-03.37.10:311][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.30-03.37.11:168][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.09.30-03.37.11:168][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.09.30-03.37.22:128][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.09.30-03.37.22:136][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2021.09.30-03.37.22:136][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.09.30-03.37.22:136][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.09.30-03.37.22:136][  0]LogD3D11RHI: D3D11 adapters:
+[2021.09.30-03.37.22:322][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2021.09.30-03.37.22:322][  0]LogD3D11RHI:       5991/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.09.30-03.37.22:342][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.09.30-03.37.22:342][  0]LogD3D11RHI:       0/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.09.30-03.37.22:342][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.09.30-03.37.22:348][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.09.30-03.37.22:348][  0]LogD3D11RHI:     GPU DeviceId: 0x2182 (for the marketing name, search the web for "GPU Device Id")
+[2021.09.30-03.37.22:348][  0]LogWindows: EnumDisplayDevices:
+[2021.09.30-03.37.22:348][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1)
+[2021.09.30-03.37.22:349][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2021.09.30-03.37.22:349][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2021.09.30-03.37.22:349][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2021.09.30-03.37.22:350][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.09.30-03.37.22:350][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2021.09.30-03.37.22:350][  0]LogD3D11RHI:   Driver Version: 471.96 (internal:30.0.14.7196, unified:471.96)
+[2021.09.30-03.37.22:350][  0]LogD3D11RHI:      Driver Date: 8-27-2021
+[2021.09.30-03.37.22:350][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2021.09.30-03.37.22:503][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.09.30-03.37.22:503][  0]LogD3D11RHI: Async texture creation enabled
+[2021.09.30-03.37.22:503][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.09.30-03.37.22:528][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.09.30-03.37.22:735][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.09.30-03.37.24:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.09.30-03.37.24:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.09.30-03.37.24:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.09.30-03.37.24:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.09.30-03.37.24:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.09.30-03.37.24:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.09.30-03.37.24:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.09.30-03.37.24:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.09.30-03.37.24:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.09.30-03.37.24:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.09.30-03.37.24:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.09.30-03.37.24:255][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.09.30-03.37.24:255][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.09.30-03.37.24:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.09.30-03.37.24:310][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.09.30-03.37.24:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.09.30-03.37.24:336][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.09.30-03.37.24:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.09.30-03.37.24:386][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.09.30-03.37.24:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.09.30-03.37.24:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.09.30-03.37.24:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.09.30-03.37.24:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.09.30-03.37.24:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.09.30-03.37.24:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.09.30-03.37.24:489][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.09.30-03.37.24:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.09.30-03.37.24:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.09.30-03.37.24:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.09.30-03.37.24:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.09.30-03.37.24:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.09.30-03.37.24:565][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.09.30-03.37.24:565][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.09.30-03.37.24:647][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.09.30-03.37.24:851][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.09.30-03.37.25:464][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.09.30-03.37.25:465][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Intermediate/Shaders/WorkingDirectory/10668/).
+[2021.09.30-03.37.25:465][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/AnkouDW/AppData/Local/Temp/UnrealShaderWorkingDir/1F3D33CC4E0E3841C2E75AA5413F6AB8/'.
+[2021.09.30-03.37.25:465][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.09.30-03.37.25:465][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.09.30-03.37.25:465][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.09.30-03.37.28:653][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.09.30-03.37.28:915][  0]LogDerivedDataCache: Loaded boot cache 0.26s 95MB C:/Users/AnkouDW/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.09.30-03.37.28:915][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/AnkouDW/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.09.30-03.37.28:915][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.09.30-03.37.28:915][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.09.30-03.37.28:915][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.30-03.37.28:915][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.09.30-03.37.28:958][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.09.30-03.37.28:958][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.30-03.37.28:958][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.09.30-03.37.28:992][  0]LogDerivedDataCache: Speed tests for C:/Users/AnkouDW/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2021.09.30-03.37.28:992][  0]LogDerivedDataCache: Display: Performance to C:/Users/AnkouDW/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.11ms. RandomReadSpeed=57.06MBs, RandomWriteSpeed=60.33MBs. Assigned SpeedClass 'Local'
+[2021.09.30-03.37.29:004][  0]LogDerivedDataCache: Using Local data cache path C:/Users/AnkouDW/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.09.30-03.37.29:005][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.09.30-03.37.29:005][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.09.30-03.37.29:060][  0]LogSlate: Using FreeType 2.10.0
+[2021.09.30-03.37.29:061][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.09.30-03.37.29:874][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2021.09.30-03.37.30:252][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.30-03.37.30:252][  0]LogInit: Active device profile: [000002C83378E600][000002C82AC01940 49] Windows
+[2021.09.30-03.37.30:252][  0]LogInit: Profiles: [000002C83378E600][000002C82AC01940 49] Windows, [000002C833744200][000002C82AC09AC0 49] WindowsNoEditor, [000002C83378EE00][000002C82AC0C0C0 49] WindowsServer, [000002C833746A00][000002C82AC10240 49] WindowsClient, [000002C83378EF00][000002C82AC143C0 49] IOS, [000002C833744F00][000002C82AC18540 49] iPadAir, [000002C83378F100][000002C82AC1C6C0 49] iPadAir2, [000002C83370A000][000002C82AC04940 49] IPadPro, [000002C83370A100][000002C82AC20980 49] iPadAir3, [000002C83378D000][000002C82AC24AC0 49] iPadAir4, [000002C83370A200][000002C831D58C00 49] iPadMini2, [000002C83378FC00][000002C831D5CD40 49] iPadMini3, [000002C833709D00][000002C831D64EC0 49] iPadMini4, [000002C83378F400][000002C831D69040 49] iPadMini5, [000002C83373D900][000002C831D71300 49] iPhone6, [000002C83373DA00][000002C831D6D340 49] iPodTouch6, [000002C833709900][000002C831D79600 49] iPhone7, [000002C833709500][000002C831D75640 49] iPodTouch7, [000002C83373DE00][000002C831D7D7C0 49] iPhone5S, [000002C833709700][000002C831D81940 49] iPhone6Plus, [000002C83373E100][000002C831D85AC0 49] iPhone6S, [000002C83370AE00][000002C831D880C0 49] iPhone6SPlus, [000002C83373FD00][000002C831D8C240 49] iPhone7Plus, [000002C83370A300][000002C831D903C0 49] iPhoneSE, [000002C83373FA00][000002C831D94540 49] iPhone8, [000002C83370A400][000002C831D986C0 49] iPhone8Plus, [000002C83373C400][000002C831D9C840 49] iPhoneX, [000002C83370B000][000002C82B0429C0 49] iPhoneXS, [000002C83373E900][000002C82B046B40 49] iPhoneXSMax, [000002C833708500][000002C831D60C80 49] iPhoneXR, [000002C83373D200][000002C82B04ADC0 49] iPhone11, [000002C833709100][000002C82B04EF00 49] iPhone11Pro, [000002C83373CE00][000002C82B057080 49] iPhone11ProMax, [000002C83370A500][000002C82B05B200 49] iPhoneSE2, [000002C83373D400][000002C82B05F380 49] iPhone12Mini, [000002C833709A00][000002C82B063500 49] iPhone12, [000002C83373D300][000002C82B067680 49] iPhone12Pro, [000002C833708900][000002C82B06B800 49] iPhone12ProMax, [000002C83373FE00][000002C82B06F980 49] iPadPro105, [000002C833708300][000002C82B073B00 49] iPadPro129, [000002C83373C600][000002C82B076100 49] iPadPro97, [000002C83370B400][000002C82B07A280 49] iPadPro2_129, [000002C83373FF00][000002C82B07E400 49] iPad5, [000002C833709300][000002C82B082580 49] iPad6, [000002C83373FC00][000002C82B086700 49] iPad7, [000002C833709800][000002C82B08A880 49] iPad8, [000002C8337E0300][000002C82B08EA00 49] iPadPro11, [000002C833745900][000002C82B092B80 49] iPadPro2_11, [000002C8337E0A00][000002C82B096D00 49] iPadPro3_129, [000002C833747100][000002C82B052E40 49] iPadPro4_129, [000002C8337E1600][000002C82B09AF80 49] AppleTV, [000002C833746800][000002C82B09F0C0 49] AppleTV4K, [000002C8337E0900][000002C82B0A7240 49] TVOS, [000002C83373F500][000002C82B0AB3C0 49] Mac, [000002C83370BD00][000002C82B0AF540 49] MacClient, [000002C83373F200][000002C82B0B36C0 49] MacNoEditor, [000002C833708800][000002C833F6F840 49] MacServer, [000002C83373C300][000002C833F739C0 49] Linux, [000002C83370B300][000002C833F77B40 49] LinuxAArch64, [000002C83373CB00][000002C833F7A140 49] LinuxNoEditor, [000002C83370BF00][000002C833F7E2C0 49] LinuxAArch64NoEditor, [000002C83373E600][000002C833F82440 49] LinuxClient, [000002C83370AA00][000002C833F865C0 49] LinuxAArch64Client, [000002C83373F000][000002C833F8A740 49] LinuxServer, [000002C833709600][000002C833F8E8C0 49] LinuxAArch64Server, [000002C83373DD00][000002C833F92A40 49] Android, [000002C83370A800][000002C833F96BC0 49] Android_Low, [000002C83373FB00][000002C833F9AD40 49] Android_Mid, [000002C833708600][000002C833F9EEC0 49] Android_High, [000002C83373CD00][000002C82B0A3000 49] Android_Default, [000002C83370BA00][000002C833FA3140 49] Android_Adreno4xx, [000002C83373F800][000002C833FA7280 49] Android_Adreno5xx_Low, [000002C833708B00][000002C833FAB3C0 49] Android_Adreno5xx, [000002C83373C100][000002C833FB3540 49] Android_Adreno6xx, [000002C83370A900][000002C833FB76C0 49] Android_Adreno6xx_Vulkan, [000002C8337E1200][000002C833FBB840 49] Android_Mali_T6xx, [000002C833708C00][000002C833FBF9C0 49] Android_Mali_T7xx, [000002C8337E0400][000002C833FC3B40 49] Android_Mali_T8xx, [000002C833709B00][000002C833FC6140 49] Android_Mali_G71, [000002C83373EF00][000002C833FCA2C0 49] Android_Mali_G72, [000002C833709200][000002C833FCE440 49] Android_Mali_G72_Vulkan, [000002C83373F900][000002C833FD25C0 49] Android_Mali_G76, [000002C83370B100][000002C833FD6740 49] Android_Mali_G76_Vulkan, [000002C83373F400][000002C833FDA8C0 49] Android_Mali_G77, [000002C833709400][000002C833FDEA40 49] Android_Mali_G77_Vulkan, [000002C83373E500][000002C833FE2BC0 49] Android_Mali_G78, [000002C83370AC00][000002C833FE6D40 49] Android_Mali_G78_Vulkan, [000002C83373C200][000002C833FEAEC0 49] Android_Mali_G710, [000002C83370B800][000002C833FEF040 49] Android_Mali_G710_Vulkan, [000002C83373D100][000002C833FAF180 49] Android_Vulkan_SM5, [000002C83370BB00][000002C8340EB2C0 49] Android_PowerVR_G6xxx, [000002C83373EB00][000002C8340EF400 49] Android_PowerVR_GT7xxx, [000002C833709000][000002C8340F3540 49] Android_PowerVR_GE8xxx, [000002C83373F100][000002C8340FB6C0 49] Android_PowerVR_GM9xxx, [000002C833708700][000002C8340FF840 49] Android_PowerVR_GM9xxx_Vulkan, [000002C83373E800][000002C8341039C0 49] Android_TegraK1, [000002C833745600][000002C834107B40 49] Android_Unknown_Vulkan, [000002C83373EE00][000002C83410A140 49] Lumin, [000002C83378FD00][000002C83410E2C0 49] Lumin_Desktop, [000002C83370AB00][000002C834112440 49] HoloLens, 
+[2021.09.30-03.37.32:460][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.09.30-03.37.32:460][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.09.30-03.37.32:460][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.09.30-03.37.32:460][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.09.30-03.37.32:460][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.09.30-03.37.32:824][  0]LogNetVersion: HW_Yakovlev_A 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1106084798)
+[2021.09.30-03.37.47:148][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.09.30-03.37.47:289][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.09.30-03.37.47:297][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.09.30-03.37.47:297][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2021.09.30-03.37.47:297][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.09.30-03.37.51:325][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 71D71E15477BF008ECC9ABB4B98AFC49 | Instance: F0941A3B4C92A8E61861569227D6EC7C (ADW-10668).
+[2021.09.30-03.37.51:486][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.09.30-03.37.51:486][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.09.30-03.37.51:486][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.09.30-03.37.51:486][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.09.30-03.37.51:486][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.09.30-03.37.51:486][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.09.30-03.37.51:486][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.09.30-03.37.51:486][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.09.30-03.37.51:487][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.09.30-03.37.51:487][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.09.30-03.37.51:487][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.09.30-03.37.51:487][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.09.30-03.37.51:487][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.09.30-03.37.51:487][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.09.30-03.37.51:514][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.09.30-03.37.51:514][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.09.30-03.37.51:514][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.09.30-03.37.51:514][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.09.30-03.37.52:202][  0]LogPython: Using Python 3.7.7
+[2021.09.30-03.37.53:082][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.09.30-03.37.53:098][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.09.30-03.37.54:291][  0]SourceControl: Source control is disabled
+[2021.09.30-03.37.54:291][  0]SourceControl: Source control is disabled
+[2021.09.30-03.37.54:407][  0]SourceControl: Source control is disabled
+[2021.09.30-03.37.54:461][  0]SourceControl: Source control is disabled
+[2021.09.30-03.37.54:644][  0]SourceControl: Source control is disabled
+[2021.09.30-03.37.54:786][  0]LogUProjectInfo: Found projects:
+[2021.09.30-03.37.54:790][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.30-03.37.54:791][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.30-03.37.54:792][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.30-03.37.55:607][  0]LogOpenImageDenoise: OIDN starting up
+[2021.09.30-03.37.55:935][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.09.30-03.37.56:026][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.30-03.37.56:026][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.30-03.37.56:445][  0]LogCollectionManager: Loaded 0 collections in 0.000829 seconds
+[2021.09.30-03.37.56:447][  0]LogFileCache: Scanning file cache for directory 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Collections/' took 0.00s
+[2021.09.30-03.37.56:447][  0]LogFileCache: Scanning file cache for directory 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Developers/AnkouDW/Collections/' took 0.00s
+[2021.09.30-03.37.56:447][  0]LogFileCache: Scanning file cache for directory 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Collections/' took 0.00s
+[2021.09.30-03.37.56:535][  0]LogOcInput: OculusInput pre-init called
+[2021.09.30-03.37.56:886][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.09.30-03.37.56:886][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.09.30-03.37.56:886][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.09.30-03.37.56:886][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.09.30-03.37.56:886][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.09.30-03.37.56:886][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.09.30-03.37.56:886][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.09.30-03.37.56:886][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.09.30-03.37.56:886][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.09.30-03.37.56:886][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.09.30-03.37.56:886][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.09.30-03.37.56:886][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.09.30-03.37.56:886][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.09.30-03.37.56:886][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.09.30-03.37.56:886][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.09.30-03.37.56:886][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.09.30-03.37.56:886][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.09.30-03.37.56:886][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.09.30-03.37.57:101][  0]LogEngine: Initializing Engine...
+[2021.09.30-03.37.57:451][  0]LogHMD: Optional extension XR_KHR_opengl_enable is not available
+[2021.09.30-03.37.57:451][  0]LogHMD: Optional extension XR_KHR_vulkan_enable is not available
+[2021.09.30-03.37.57:451][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2021.09.30-03.37.57:474][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2021.09.30-03.37.57:474][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2021.09.30-03.37.57:494][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.09.30-03.37.57:496][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.09.30-03.37.57:666][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.09.30-03.37.58:154][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.09.30-03.37.59:031][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.09.30-03.37.59:119][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.09.30-03.37.59:195][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.09.30-03.37.59:286][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.09.30-03.37.59:286][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.09.30-03.37.59:340][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.30-03.37.59:340][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.30-03.37.59:340][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.30-03.37.59:340][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.30-03.37.59:340][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.30-03.37.59:340][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.30-03.37.59:340][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.30-03.37.59:376][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.30-03.37.59:484][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.30-03.37.59:484][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.30-03.37.59:484][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.30-03.37.59:484][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.30-03.37.59:837][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.30-03.37.59:837][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.09.30-03.37.59:837][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.09.30-03.37.59:837][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.09.30-03.37.59:837][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.09.30-03.37.59:837][  0]LogAudioMixer: Display: 5: BackRight
+[2021.09.30-03.37.59:837][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.09.30-03.37.59:837][  0]LogAudioMixer: Display: 7: SideRight
+[2021.09.30-03.37.59:894][  0]LogAudioMixer: Display: Using Audio Device Динамики (3- Respawn)
+[2021.09.30-03.37.59:993][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.30-03.38.00:016][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.30-03.38.00:016][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.30-03.38.00:065][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.30-03.38.00:083][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.30-03.38.00:083][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.09.30-03.38.00:097][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.30-03.38.00:097][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.30-03.38.00:097][  0]LogInit: FAudioDevice initialized.
+[2021.09.30-03.38.00:136][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.30-03.38.00:136][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.09.30-03.38.00:185][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.09.30-03.38.00:192][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/AnkouDW/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.09.30-03.38.00:230][  0]LogInit: Texture streaming: Enabled
+[2021.09.30-03.38.00:417][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.0-17155196+++UE4+Release-4.27
+[2021.09.30-03.38.00:485][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.09.30-03.38.00:492][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.09.30-03.38.00:542][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.09.30-03.38.00:953][  0]LogInit: Transaction tracking system initialized
+[2021.09.30-03.38.01:330][  0]BlueprintLog: New page: Editor Load
+[2021.09.30-03.38.04:073][  0]LocalizationService: Localization service is disabled
+[2021.09.30-03.38.05:019][  0]TimingProfiler: Initialize
+[2021.09.30-03.38.05:021][  0]TimingProfiler: OnSessionChanged
+[2021.09.30-03.38.05:021][  0]LoadingProfiler: Initialize
+[2021.09.30-03.38.05:021][  0]LoadingProfiler: OnSessionChanged
+[2021.09.30-03.38.05:022][  0]NetworkingProfiler: Initialize
+[2021.09.30-03.38.05:022][  0]NetworkingProfiler: OnSessionChanged
+[2021.09.30-03.38.05:022][  0]MemoryProfiler: Initialize
+[2021.09.30-03.38.05:022][  0]MemoryProfiler: OnSessionChanged
+[2021.09.30-03.38.05:762][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.30-03.38.05:763][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.30-03.38.05:765][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.30-03.38.07:804][  0]LogFileCache: Scanning file cache for directory 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/' took 0.00s
+[2021.09.30-03.38.07:805][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.09.30-03.38.07:805][  0]LogCook: Display: Mobile HDR setting 1
+[2021.09.30-03.38.27:755][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.09.30-03.38.27:755][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.09.30-03.38.27:755][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.09.30-03.38.27:755][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.09.30-03.38.27:755][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.09.30-03.38.27:755][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.09.30-03.38.27:755][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.09.30-03.38.27:755][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.09.30-03.38.27:755][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.09.30-03.38.27:755][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.09.30-03.38.27:755][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.09.30-03.38.27:755][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.09.30-03.38.27:755][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.09.30-03.38.27:755][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.09.30-03.38.27:756][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.09.30-03.38.27:756][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.09.30-03.38.27:756][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.09.30-03.38.27:756][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.09.30-03.38.28:212][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.09.30-03.38.29:933][  0]SourceControl: Source control is disabled
+[2021.09.30-03.38.30:059][  0]LogUnrealEdMisc: Loading editor; pre map load, took 143.063
+[2021.09.30-03.38.30:430][  0]Cmd: MAP LOAD FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Levels/edited.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.30-03.38.30:579][  0]LightingResults: New page: Lighting Build
+[2021.09.30-03.38.31:707][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.09.30-03.38.32:267][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.30-03.38.32:647][  0]MapCheck: New page: Map Check
+[2021.09.30-03.38.32:647][  0]LightingResults: New page: Lighting Build
+[2021.09.30-03.38.35:045][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.30-03.38.38:014][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.09.30-03.38.41:381][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 64X64)
+[2021.09.30-03.38.41:381][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 256X256)
+[2021.09.30-03.38.41:381][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 64X64)
+[2021.09.30-03.38.41:381][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 256X256)
+[2021.09.30-03.38.41:381][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 32X32)
+[2021.09.30-03.38.41:381][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 128X128)
+[2021.09.30-03.38.41:381][  0]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.09.30-03.38.41:443][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'edited'.
+[2021.09.30-03.38.41:486][  0]LogAIModule: Creating AISystem for world edited
+[2021.09.30-03.38.43:069][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/New_empty_lvl) is flushing async loading
+[2021.09.30-03.38.43:069][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.09.30-03.38.43:269][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 64X64)
+[2021.09.30-03.38.43:269][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 256X256)
+[2021.09.30-03.38.43:269][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 256X256)
+[2021.09.30-03.38.43:269][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 64X64)
+[2021.09.30-03.38.43:269][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 128X128)
+[2021.09.30-03.38.43:269][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 32X32)
+[2021.09.30-03.38.43:269][  0]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.09.30-03.38.43:305][  0]LogDerivedDataCache: C:/Users/AnkouDW/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision, attempt at redundant update, OK C:/Users/AnkouDW/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/5/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_OODLE_DXT1_11_BAFC2427AB4ADD62B32372A__7958E39287DE5BEBD81B026100146C64E925AD71.udd.
+[2021.09.30-03.38.43:322][  0]LogDerivedDataCache: C:/Users/AnkouDW/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision, attempt at redundant update, OK C:/Users/AnkouDW/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/9/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_BGRA8_D1F2358E6940F8EA8CBACD91B8C1A09__FCAAD103F911C0B53946630B5DB6719B9E86BD01.udd.
+[2021.09.30-03.38.43:322][  0]LogDerivedDataCache: C:/Users/AnkouDW/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision, attempt at redundant update, OK C:/Users/AnkouDW/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/3/TEXTURE_E01F4250BECD420DA9CE63B5EECEC2C2_BGRA8_D1F2358E6940F8EA8CBACD91B8C1A09__605365C60DC9AF6C6D9000E6A0846D7F0BA46195.udd.
+[2021.09.30-03.38.45:006][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.30-03.38.45:749][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.09.30-03.38.46:043][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.30-03.38.46:243][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 199,127ms to complete.
+[2021.09.30-03.38.46:243][  0]LogFileHelpers: Loading map 'edited' took 15.960
+[2021.09.30-03.38.51:285][  0]LogUnrealEdMisc: Total Editor Startup Time, took 164.415
+[2021.09.30-03.38.53:503][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-03.38.53:543][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-03.38.53:551][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-03.38.53:562][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.30-03.38.53:902][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0123 seconds. Added 3822 classes and 928 folders.
+[2021.09.30-03.38.54:311][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.09.30-03.38.54:478][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.30-03.38.54:479][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:479][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.30-03.38.54:560][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:561][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.09.30-03.38.54:581][  0]LogPakFile: OnPakFileMounted2Time == 0.102214
+[2021.09.30-03.38.54:691][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.09.30-03.38.54:691][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:691][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.09.30-03.38.54:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.09.30-03.38.54:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.09.30-03.38.54:698][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.09.30-03.38.54:698][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.09.30-03.38.54:698][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:698][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.09.30-03.38.54:698][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.09.30-03.38.54:720][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.30-03.38.54:720][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:720][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.30-03.38.54:720][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:720][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.09.30-03.38.54:720][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2021.09.30-03.38.54:729][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.09.30-03.38.54:729][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:729][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.09.30-03.38.54:729][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:729][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.09.30-03.38.54:729][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.09.30-03.38.54:735][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.09.30-03.38.54:735][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:735][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.09.30-03.38.54:735][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:735][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.09.30-03.38.54:735][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.09.30-03.38.54:766][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.09.30-03.38.54:767][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:767][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.09.30-03.38.54:767][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:767][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.09.30-03.38.54:767][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.09.30-03.38.54:793][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.09.30-03.38.54:793][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:793][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.09.30-03.38.54:793][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:793][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.09.30-03.38.54:793][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.09.30-03.38.54:862][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.30-03.38.54:862][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:862][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.30-03.38.54:862][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:862][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.09.30-03.38.54:862][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.09.30-03.38.54:917][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.09.30-03.38.54:917][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:917][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.09.30-03.38.54:917][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:917][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.09.30-03.38.54:917][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.09.30-03.38.54:923][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.09.30-03.38.54:923][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:923][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.09.30-03.38.54:923][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:923][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.09.30-03.38.54:923][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.09.30-03.38.54:931][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.30-03.38.54:931][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:931][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.30-03.38.54:931][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:931][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.09.30-03.38.54:931][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.09.30-03.38.54:937][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.30-03.38.54:937][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:937][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.30-03.38.54:937][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:937][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.09.30-03.38.54:937][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.09.30-03.38.54:944][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.30-03.38.54:944][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:944][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.30-03.38.54:944][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:944][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.09.30-03.38.54:944][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2021.09.30-03.38.54:951][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.09.30-03.38.54:952][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:952][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.09.30-03.38.54:952][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:952][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.09.30-03.38.54:952][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.09.30-03.38.54:959][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.30-03.38.54:959][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:959][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.30-03.38.54:959][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:959][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.09.30-03.38.54:959][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.09.30-03.38.54:966][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.09.30-03.38.54:966][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:966][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.09.30-03.38.54:966][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:966][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.09.30-03.38.54:967][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2021.09.30-03.38.54:973][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.30-03.38.54:974][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:974][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.30-03.38.54:974][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:974][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.09.30-03.38.54:974][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.09.30-03.38.54:981][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.30-03.38.54:981][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:981][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.30-03.38.54:981][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:981][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.09.30-03.38.54:981][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.09.30-03.38.54:992][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.30-03.38.54:992][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.54:992][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.30-03.38.54:992][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.54:992][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.09.30-03.38.54:992][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.09.30-03.38.55:031][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.30-03.38.55:031][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.55:031][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.30-03.38.55:031][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.55:031][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.09.30-03.38.55:031][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.09.30-03.38.55:054][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.30-03.38.55:054][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.55:054][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.30-03.38.55:054][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.55:054][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.09.30-03.38.55:054][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.09.30-03.38.55:061][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.09.30-03.38.55:061][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.55:061][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.09.30-03.38.55:061][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.55:061][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.09.30-03.38.55:061][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.09.30-03.38.55:067][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.30-03.38.55:067][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.55:067][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.30-03.38.55:067][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.55:067][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.09.30-03.38.55:067][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.09.30-03.38.55:073][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.30-03.38.55:073][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.55:074][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.30-03.38.55:074][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.55:074][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.09.30-03.38.55:074][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2021.09.30-03.38.55:080][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.09.30-03.38.55:080][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.30-03.38.55:080][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.09.30-03.38.55:080][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.09.30-03.38.55:080][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:e:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.09.30-03.38.55:080][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.09.30-03.38.57:257][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.09.30-03.38.57:439][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.09.30-03.38.59:533][  0]LogSlate: Took 0.048403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.30-03.38.59:680][  0]LogSlate: Took 0.073917 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.30-03.38.59:801][  0]LogSlate: Took 0.067678 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.30-03.39.01:096][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.09.30-03.39.02:841][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.09.30-03.39.02:842][  0]LogLoad: (Engine Initialization) Total time: 175.97 seconds
+[2021.09.30-03.39.02:842][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.09.30-03.39.03:479][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.09.30-03.39.05:343][  1]LogAssetRegistry: Asset discovery search completed in 95.4696 seconds
+[2021.09.30-03.39.05:750][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000027 seconds (updated 0 objects)
+[2021.09.30-03.39.07:085][  2]LogSlate: Took 0.027903 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.30-03.40.34:649][676]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2021.09.30-03.40.34:649][676]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.09.30-03.40.34:650][676]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2021.09.30-03.40.34:650][676]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.09.30-03.40.34:651][676]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2021.09.30-03.40.34:651][676]LogWindows: Warning: URL: C:\Users\AnkouDW\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.09.30-03.40.34:651][676]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2021.09.30-03.40.34:651][676]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.09.30-03.40.34:651][676]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2021.09.30-03.40.34:651][676]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.09.30-03.40.34:651][676]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2021.09.30-03.40.34:651][676]LogWindows: Warning: URL: C:\Users\AnkouDW\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.09.30-03.40.34:652][676]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2021.09.30-03.40.34:652][676]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.09.30-03.40.36:380][861]LogWindows: Warning: CreateProc failed: Отказано в доступе. (0x00000005)
+[2021.09.30-03.40.36:380][861]LogWindows: Warning: URL: e:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/ version
+[2021.09.30-03.40.53:256][252]LogSlate: Window 'Source Control Login' being destroyed
+[2021.09.30-03.47.01:473][570]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.30-03.47.01:488][570]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.30-03.47.07:767][288]LogContentBrowser: Attempting asset rename: NewFolder -> Main
+[2021.09.30-03.47.07:768][288]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.30-03.47.12:398][805]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.30-03.47.12:411][805]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.30-03.47.17:541][413]LogContentBrowser: Attempting asset rename: NewFolder -> Download
+[2021.09.30-03.47.17:542][413]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.30-03.47.19:954][675]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.30-03.47.19:974][675]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.30-03.47.27:913][625]LogContentBrowser: Attempting asset rename: NewFolder -> Trash
+[2021.09.30-03.47.27:913][625]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.30-03.47.53:323][326]LogSlate: Took 0.011029 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.30-03.47.53:535][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2021.09.30-03.47.53:535][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights
+[2021.09.30-03.47.53:912][326]LogTexture: Display: Building textures: UE4Man_Logo_N (OODLE_BC5, 512X512)
+[2021.09.30-03.47.53:912][326]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (OODLE_DXT1, 512X512)
+[2021.09.30-03.47.53:913][326]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (OODLE_AutoDXT, 1024X1024)
+[2021.09.30-03.47.53:913][326]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.30-03.47.53:913][326]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (OODLE_DXT1, 512X512)
+[2021.09.30-03.47.54:024][326]LogTexture: Display: Building textures: T_ML_Aluminum01_N (OODLE_BC5, 512X512)
+[2021.09.30-03.47.54:024][326]LogTexture: Display: Building textures: UE4_Mannequin__normals (OODLE_BC5, 2048X2048)
+[2021.09.30-03.47.54:024][326]LogTexture: Display: Building textures: T_ML_Aluminum01 (OODLE_DXT1, 512X512)
+[2021.09.30-03.47.54:036][326]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.30-03.47.54:036][326]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (OODLE_BC5, 512X512)
+[2021.09.30-03.47.54:208][326]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.30-03.47.54:208][326]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 512X512)
+[2021.09.30-03.47.54:208][326]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2021.09.30-03.47.54:208][326]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 98F62F570888EA2AAD649D3A52E86914B759EB4E), compiling. 
+[2021.09.30-03.47.54:492][326]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 512X512)
+[2021.09.30-03.47.54:492][326]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2021.09.30-03.47.54:492][326]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 512X256)
+[2021.09.30-03.47.54:492][326]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 64X32)
+[2021.09.30-03.47.54:492][326]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X256)
+[2021.09.30-03.47.54:492][326]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 64X32)
+[2021.09.30-03.47.54:492][326]LogShaderCompilers: Display: Submitted 88 shader compile jobs with 'Low' priority
+[2021.09.30-03.47.54:613][326]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 88
+[2021.09.30-03.47.54:613][326]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 78
+[2021.09.30-03.47.54:613][326]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 68
+[2021.09.30-03.47.54:613][326]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Low' priority
+[2021.09.30-03.47.54:613][326]LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: B2B116A4FA40C1B21A8FB72F194106206D1E385C), compiling. 
+[2021.09.30-03.47.54:690][326]LogShaderCompilers: Display: Submitted 88 shader compile jobs with 'Low' priority
+[2021.09.30-03.47.54:931][326]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2021.09.30-03.47.55:032][326]LogSkeletalMesh: Built Skeletal Mesh [0.26s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2021.09.30-03.47.55:048][326]LogMaterial: Display: Missing cached shadermap for M_Template_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 7E357866895F2D24062F5EB4F7EDF06970926F36), compiling. 
+[2021.09.30-03.47.55:104][326]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2021.09.30-03.47.55:356][326]LogActorComponent: RegisterComponentWithWorld: (/Game/AnimStarterPack/Showcase.Showcase:PersistentLevel.WorldSettings.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.09.30-03.47.56:072][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights
+[2021.09.30-03.47.56:072][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2021.09.30-03.47.56:072][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Ironsights.Reload_Shotgun_Ironsights
+[2021.09.30-03.47.56:072][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip
+[2021.09.30-03.47.56:072][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights
+[2021.09.30-03.47.56:072][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Hip.Reload_Rifle_Hip
+[2021.09.30-03.47.56:072][326]LogBlueprint: Warning: [AssetLog] F:\AnkouDW\Unreal Projects\HW_Yakovlev_A\HW_Yakovlev_A 4.27\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2021.09.30-03.47.56:186][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Pistol.Reload_Pistol
+[2021.09.30-03.47.56:414][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_To_Stand.Prone_To_Stand
+[2021.09.30-03.47.56:414][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Shotgun.Prone_Reload_Shotgun
+[2021.09.30-03.47.56:597][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Rifle.Prone_Reload_Rifle
+[2021.09.30-03.47.56:597][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Idle.Prone_Idle
+[2021.09.30-03.47.56:597][326]LogLinker: Warning: [AssetLog] F:\AnkouDW\Unreal Projects\HW_Yakovlev_A\HW_Yakovlev_A 4.27\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.09.30-03.47.56:597][326]LogLinker: Warning: [AssetLog] F:\AnkouDW\Unreal Projects\HW_Yakovlev_A\HW_Yakovlev_A 4.27\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.09.30-03.47.56:597][326]LogLinker: Warning: [AssetLog] F:\AnkouDW\Unreal Projects\HW_Yakovlev_A\HW_Yakovlev_A 4.27\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.09.30-03.47.56:598][326]LogLinker: Warning: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.09.30-03.47.56:598][326]LogLinker: Warning: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.09.30-03.47.56:603][326]LogLinker: Warning: [AssetLog] F:\AnkouDW\Unreal Projects\HW_Yakovlev_A\HW_Yakovlev_A 4.27\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.09.30-03.47.56:628][326]LoadErrors: Failed to load /Game/FPWeapon/Mesh/SK_FPGun.SK_FPGun Referenced by FP_Gun_GEN_VARIABLE
+[2021.09.30-03.47.57:392][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_2.Prone_Fire_2
+[2021.09.30-03.47.58:388][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights
+[2021.09.30-03.47.58:388][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights
+[2021.09.30-03.47.58:388][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2021.09.30-03.47.58:388][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2021.09.30-03.47.58:388][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_To_Prone.Stand_To_Prone
+[2021.09.30-03.47.58:388][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights
+[2021.09.30-03.47.58:617][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip
+[2021.09.30-03.47.58:617][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_1.Prone_Fire_1
+[2021.09.30-03.47.58:617][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_2.Prone_Death_2
+[2021.09.30-03.47.58:827][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_1.Prone_Death_1
+[2021.09.30-03.47.58:827][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand_Ironsights.Jump_From_Stand_Ironsights
+[2021.09.30-03.47.58:827][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand
+[2021.09.30-03.47.58:996][326]LogMaterial: Display: Missing cached shadermap for M_AssetPlatform in PCD3D_SM5, Default, SM5 (DDC key hash: 6AA9F742F68EFB7CAC5973768DBF02BFB5BC66E7), compiling. 
+[2021.09.30-03.47.59:021][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.00:598][326]LogMaterial: Display: Missing cached shadermap for M_Radial_Gradient in PCD3D_SM5, Default, SM5 (DDC key hash: C2841E0F8E4F4CD1405007261DBF6D4E41A213EC), compiling. 
+[2021.09.30-03.48.00:705][326]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.00:707][326]LogMaterial: Display: Missing cached shadermap for M_Heat_Distortion in PCD3D_SM5, Default, SM5 (DDC key hash: B053E766DFB02277C274685DA5E2D6521F4ECD72), compiling. 
+[2021.09.30-03.48.00:807][326]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.00:808][326]LogMaterial: Display: Missing cached shadermap for M_Fire_SubUV in PCD3D_SM5, Default, SM5 (DDC key hash: B56B1E9EAB1AA325F6F927E45362DB6C77154A07), compiling. 
+[2021.09.30-03.48.00:839][326]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.00:902][326]LogMaterial: Display: Missing cached shadermap for M_Spark in PCD3D_SM5, Default, SM5 (DDC key hash: C198A6D0B1339B861238B3099EF3252CE1E69234), compiling. 
+[2021.09.30-03.48.00:935][326]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.01:147][326]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2021.09.30-03.48.01:608][326]LogMaterial: Display: Missing cached shadermap for M_LightStage_Arrows in PCD3D_SM5, Default, SM5 (DDC key hash: EE84B470D857DA23D80A2EA6066EE0DBE38CC655), compiling. 
+[2021.09.30-03.48.01:614][326]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.01:643][326]LogMaterial: Display: Missing cached shadermap for M_LightStage_Skybox_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 319760BB7FF317F77AD762AA37E5887C38C42E23), compiling. 
+[2021.09.30-03.48.01:649][326]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.01:650][326]LogMaterial: Display: Missing cached shadermap for M_LightStage_Skybox_HDRI in PCD3D_SM5, Default, SM5 (DDC key hash: F24E115079D23CE727C355BAED6BA4F3047B6AF8), compiling. 
+[2021.09.30-03.48.01:656][326]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.01:839][326]LogMaterial: Display: Missing cached shadermap for M_GreyBall in PCD3D_SM5, Default, SM5 (DDC key hash: EED536CE3D9D5136495C87E0E3782CCDD50B657C), compiling. 
+[2021.09.30-03.48.01:867][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.01:906][326]LogMaterial: Display: Missing cached shadermap for M_ColorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 2F7A22EAC3B2B3F949F3B7E3A7FADFF47FB22593), compiling. 
+[2021.09.30-03.48.01:933][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.01:983][326]LogMaterial: Display: Missing cached shadermap for M_ClearCoatBlack in PCD3D_SM5, Default, SM5 (DDC key hash: 7251D59505F4E773E81E49C5FBDC77F9453A3D47), compiling. 
+[2021.09.30-03.48.02:012][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.02:014][326]LogMaterial: Display: Missing cached shadermap for M_ClearCoat in PCD3D_SM5, Default, SM5 (DDC key hash: 50ACDFFCCC09DC0928202652A339AD4F78C4250B), compiling. 
+[2021.09.30-03.48.02:041][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.02:591][326]LogTexture: Display: Building textures: DeprecatedTextureF60039EB445BD313D9FB3B83A10248ED (BGRA8, 128X128)
+[2021.09.30-03.48.03:382][326]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2021.09.30-03.48.03:389][326]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2021.09.30-03.48.04:539][326]LogMaterial: Display: Missing cached shadermap for M_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 8D71DF1DD3C1A0244276B6CC29A5E4E506EB3B72), compiling. 
+[2021.09.30-03.48.04:624][326]LogShaderCompilers: Display: Submitted 46 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.04:826][326]LogMaterial: Display: Missing cached shadermap for M_Frame in PCD3D_SM5, Default, SM5 (DDC key hash: A7BEDD3D6D22E5019CB87B3612FB7973C7DFDBDA), compiling. 
+[2021.09.30-03.48.04:853][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:123][326]LogMaterial: Display: Missing cached shadermap for M_Dust_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 78ADCF286D2D6307B216349C2F2431D43EB01C91), compiling. 
+[2021.09.30-03.48.05:273][326]LogShaderCompilers: Display: Submitted 128 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:292][326]LogMaterial: Display: Missing cached shadermap for M_Wood_Walnut in PCD3D_SM5, Default, SM5 (DDC key hash: E25FC85464A874F3CFDFA0BF7511EE001B98AF30), compiling. 
+[2021.09.30-03.48.05:321][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:325][326]LogMaterial: Display: Missing cached shadermap for M_Wood_Pine in PCD3D_SM5, Default, SM5 (DDC key hash: 26F8D070E10C50D027E3DFE34872290D0777D06E), compiling. 
+[2021.09.30-03.48.05:352][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:355][326]LogMaterial: Display: Missing cached shadermap for M_Wood_Oak in PCD3D_SM5, Default, SM5 (DDC key hash: 2D9E86BA73F1E798F65B94E74CE88B5776B43E08), compiling. 
+[2021.09.30-03.48.05:381][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:388][326]LogTexture: Display: Building textures: DeprecatedTexture23F9881A4F7D09FA85B8FFBAC56882BF (BGRA8, 128X128)
+[2021.09.30-03.48.05:388][326]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Worn in PCD3D_SM5, Default, SM5 (DDC key hash: 56A1E7E0A8A45A830042FBA07B5D1BBE8FDD6037), compiling. 
+[2021.09.30-03.48.05:427][326]LogTexture: Display: Building textures: DeprecatedTexture286B71FD456BBC57D3B875B63A2AF0AA (BGRA8, 128X128)
+[2021.09.30-03.48.05:427][326]LogTexture: Display: Building textures: DeprecatedTexture2A05A5254D431981518674B220E5E1A1 (BGRA8, 128X128)
+[2021.09.30-03.48.05:427][326]LogTexture: Display: Building textures: DeprecatedTexture310E58554010446A08107499F126CE3D (BGRA8, 128X128)
+[2021.09.30-03.48.05:427][326]LogTexture: Display: Building textures: DeprecatedTexture34034B4C417D9B375A592E9A23C11137 (BGRA8, 128X128)
+[2021.09.30-03.48.05:427][326]LogTexture: Display: Building textures: DeprecatedTexture3AD1786A42EB6F981CB7E1847869C35B (BGRA8, 128X128)
+[2021.09.30-03.48.05:427][326]LogTexture: Display: Building textures: DeprecatedTexture43ADA98049DD7D3E0EABF7B175F6CC97 (BGRA8, 128X128)
+[2021.09.30-03.48.05:427][326]LogTexture: Display: Building textures: DeprecatedTexture617F078740EB0F77ABFB678038ACFCA7 (BGRA8, 128X128)
+[2021.09.30-03.48.05:427][326]LogTexture: Display: Building textures: DeprecatedTextureB91D75A74080657D8AF886A1EE756E94 (BGRA8, 128X128)
+[2021.09.30-03.48.05:427][326]LogTexture: Display: Building textures: DeprecatedTextureF6495ADB4998903A4DCD9AAEAD18E643 (BGRA8, 128X128)
+[2021.09.30-03.48.05:427][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:429][326]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: E9B499C1AD4CF349287883E79BD6EAA9079C11D7), compiling. 
+[2021.09.30-03.48.05:465][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:467][326]LogMaterial: Display: Missing cached shadermap for M_Water_Ocean in PCD3D_SM5, Default, SM5 (DDC key hash: 4B83190CD99349A9D012CDCD6C5C3F7D7B100F1F), compiling. 
+[2021.09.30-03.48.05:493][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:494][326]LogMaterial: Display: Missing cached shadermap for M_Water_Lake in PCD3D_SM5, Default, SM5 (DDC key hash: B55EE3F997C9F658711328D4860A0949C5258641), compiling. 
+[2021.09.30-03.48.05:522][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:524][326]LogMaterial: Display: Missing cached shadermap for M_Tech_Panel in PCD3D_SM5, Default, SM5 (DDC key hash: 3A71C27845D7A3B1768EB2300ED9101D8D4B126E), compiling. 
+[2021.09.30-03.48.05:551][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:552][326]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: 4056ABD3EE6CD6F53DFF6BAC6CBF919CF69960C0), compiling. 
+[2021.09.30-03.48.05:580][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:582][326]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile in PCD3D_SM5, Default, SM5 (DDC key hash: 514E48D771E4CF046088A3F9D243D5BE754074C2), compiling. 
+[2021.09.30-03.48.05:608][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:609][326]LogMaterial: Display: Missing cached shadermap for M_Tech_Checker_Dot in PCD3D_SM5, Default, SM5 (DDC key hash: A621A60AE02F20EFC8017507571032E59920F313), compiling. 
+[2021.09.30-03.48.05:635][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:637][326]LogMaterial: Display: Missing cached shadermap for M_Rock_Slate in PCD3D_SM5, Default, SM5 (DDC key hash: 8BDFAAD561E3D4F1D180F5F7C830EF85C66F2718), compiling. 
+[2021.09.30-03.48.05:662][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:664][326]LogMaterial: Display: Missing cached shadermap for M_Rock_Sandstone in PCD3D_SM5, Default, SM5 (DDC key hash: 6BF7FA05F7964AB0DC1BB105CDECF2F0BAF3643E), compiling. 
+[2021.09.30-03.48.05:691][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:692][326]LogMaterial: Display: Missing cached shadermap for M_Rock_Marble_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: B6D464688E125B712068DA2E43973225FD83B530), compiling. 
+[2021.09.30-03.48.05:719][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:721][326]LogMaterial: Display: Missing cached shadermap for M_Rock_Basalt in PCD3D_SM5, Default, SM5 (DDC key hash: 0091620460B24D55F39111A3F54AB51BFF01FA09), compiling. 
+[2021.09.30-03.48.05:748][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:749][326]LogMaterial: Display: Missing cached shadermap for M_Metal_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: D7102CB9A6373B313A44E2C6EB23CCEA6EB027C8), compiling. 
+[2021.09.30-03.48.05:775][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:777][326]LogMaterial: Display: Missing cached shadermap for M_Metal_Rust in PCD3D_SM5, Default, SM5 (DDC key hash: 22BF179E654F1528BC361D3673D7306758B3E88B), compiling. 
+[2021.09.30-03.48.05:805][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:807][326]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 6A356364B70631467CD60DE5982E6E2D9D724462), compiling. 
+[2021.09.30-03.48.05:833][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:834][326]LogMaterial: Display: Missing cached shadermap for M_Metal_Chrome in PCD3D_SM5, Default, SM5 (DDC key hash: B388B0A48D80EE0998F9151D592B6231A28B531A), compiling. 
+[2021.09.30-03.48.05:862][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:863][326]LogMaterial: Display: Missing cached shadermap for M_Ground_Moss in PCD3D_SM5, Default, SM5 (DDC key hash: 9DFEB649FD8AFF244A0E669B14B227AB6B8AD9B7), compiling. 
+[2021.09.30-03.48.05:889][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:891][326]LogMaterial: Display: Missing cached shadermap for M_Ground_Gravel in PCD3D_SM5, Default, SM5 (DDC key hash: 5F66A7E67CB9CAEFD7F64689304A1F04BE96527A), compiling. 
+[2021.09.30-03.48.05:919][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:920][326]LogMaterial: Display: Missing cached shadermap for M_Ground_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: E83B7D2E8C95DC614807C3C7CE0535F07650DDA8), compiling. 
+[2021.09.30-03.48.05:948][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:949][326]LogMaterial: Display: Missing cached shadermap for M_Concrete_Tiles in PCD3D_SM5, Default, SM5 (DDC key hash: 8D3A47E3B31D151D9859C1242DD76DD2BA1385AD), compiling. 
+[2021.09.30-03.48.05:977][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:978][326]LogMaterial: Display: Missing cached shadermap for M_Concrete_Poured in PCD3D_SM5, Default, SM5 (DDC key hash: 4E2C2B40D75E95F0E5A64B847D2049A8BAABF44B), compiling. 
+[2021.09.30-03.48.06:006][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:007][326]LogMaterial: Display: Missing cached shadermap for M_Concrete_Panels in PCD3D_SM5, Default, SM5 (DDC key hash: DA369B21A11B560AF6CB626925B104D0B98552A2), compiling. 
+[2021.09.30-03.48.06:032][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:033][326]LogMaterial: Display: Missing cached shadermap for M_Concrete_Grime in PCD3D_SM5, Default, SM5 (DDC key hash: 069393C1B9D9B78CE86AE0BF2C05ADDF9C62A041), compiling. 
+[2021.09.30-03.48.06:062][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:064][326]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Smooth in PCD3D_SM5, Default, SM5 (DDC key hash: 9C4F47910A1A81D5EFF90F2D95737B2633D523EE), compiling. 
+[2021.09.30-03.48.06:094][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:096][326]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Rough in PCD3D_SM5, Default, SM5 (DDC key hash: 89B7FBBAFCF6AA28FDEA79DF694B2AABD3A2E5BE), compiling. 
+[2021.09.30-03.48.06:128][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:129][326]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Pebble in PCD3D_SM5, Default, SM5 (DDC key hash: 0C25B61D37561A7E0E0FDD56EAC3F9BD2BE71B54), compiling. 
+[2021.09.30-03.48.06:157][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:159][326]LogMaterial: Display: Missing cached shadermap for M_Ceramic_Tile_Checker in PCD3D_SM5, Default, SM5 (DDC key hash: 054EC83A29273A7C905A51307FEDBE40E21D12B3), compiling. 
+[2021.09.30-03.48.06:186][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:188][326]LogMaterial: Display: Missing cached shadermap for M_Brick_Hewn_Stone in PCD3D_SM5, Default, SM5 (DDC key hash: 29DED82354460230456CC7803CF9EA5816A47B83), compiling. 
+[2021.09.30-03.48.06:212][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:215][326]LogMaterial: Display: Missing cached shadermap for M_Brick_Cut_Stone in PCD3D_SM5, Default, SM5 (DDC key hash: 47B48F9739F7B79836CFB2F527FBE5DE4901BE4E), compiling. 
+[2021.09.30-03.48.06:244][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:245][326]LogMaterial: Display: Missing cached shadermap for M_Brick_Clay_Old in PCD3D_SM5, Default, SM5 (DDC key hash: 71E1F6624E010C12D556A8332FFD2949FB4726AD), compiling. 
+[2021.09.30-03.48.06:274][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:384][326]LogMaterial: Display: Missing cached shadermap for M_Brick_Clay_New in PCD3D_SM5, Default, SM5 (DDC key hash: 8EFAF3F6C8E795802FA74D2C47315472AC971489), compiling. 
+[2021.09.30-03.48.06:411][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:413][326]LogMaterial: Display: Missing cached shadermap for M_Brick_Clay_Beveled in PCD3D_SM5, Default, SM5 (DDC key hash: 8E224FE64189BA90AF57DF1788A47AFEF0E55672), compiling. 
+[2021.09.30-03.48.06:441][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:498][326]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.09.30-03.48.06:498][326]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.48.06:624][326]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.30-03.48.06:624][326]LogShaderCompilers: Display: Total job queries 1602, among them cache hits 0 (0.00%)
+[2021.09.30-03.48.06:624][326]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 10 distinct outputs (100.00%)
+[2021.09.30-03.48.06:637][326]LogShaderCompilers: Display: RAM used: 0.04 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.01%
+[2021.09.30-03.48.06:637][326]LogShaderCompilers: Display: ================================================
+[2021.09.30-03.48.06:704][326]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2021.09.30-03.48.06:704][326]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.48.06:914][326]LogMaterial: Display: Missing cached shadermap for M_ColorGrid_LowSpec in PCD3D_SM5, Default, SM5 (DDC key hash: 14BBFFF101C333C19BB6F3D0EF0ED96EC41213A7), compiling. 
+[2021.09.30-03.48.06:939][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:982][326]LogMaterial: Display: Missing cached shadermap for M_Bush in PCD3D_SM5, Default, SM5 (DDC key hash: F4477383CF68736DF369DB38B2555A16AC452252), compiling. 
+[2021.09.30-03.48.07:059][326]LogShaderCompilers: Display: Submitted 51 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.07:254][326]LogMaterial: Display: Missing cached shadermap for M_Door in PCD3D_SM5, Default, SM5 (DDC key hash: 5557BE28D989F1ED38757431128B571D70142DBA), compiling. 
+[2021.09.30-03.48.07:279][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.07:340][326]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 151
+[2021.09.30-03.48.07:340][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.48.07:341][326]LogMaterial: Display: Missing cached shadermap for M_MaterialSphere_Plain in PCD3D_SM5, Default, SM5 (DDC key hash: EFB90C4DB499F070E35432F098BD9CC789BCD651), compiling. 
+[2021.09.30-03.48.07:360][326]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.07:518][326]LogMaterial: Display: Missing cached shadermap for M_MaterialSphere in PCD3D_SM5, Default, SM5 (DDC key hash: 0CA103FC95060625E9B2C6F723E70293BF3A7093), compiling. 
+[2021.09.30-03.48.07:536][326]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.07:570][326]LogMaterial: Display: Missing cached shadermap for M_Rock in PCD3D_SM5, Default, SM5 (DDC key hash: B375CCFCE2D6E4F0158AB67534FB4F1842AE3355), compiling. 
+[2021.09.30-03.48.07:601][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.07:675][326]LogMaterial: Display: Missing cached shadermap for M_Shelf in PCD3D_SM5, Default, SM5 (DDC key hash: 5D96104305C3E6025AF2C90E9FBB31A6020425A1), compiling. 
+[2021.09.30-03.48.07:700][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.08:297][326]LogMaterial: Display: Missing cached shadermap for RampMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0246992DF99811697812838DEA9CCDB03B527C16), compiling. 
+[2021.09.30-03.48.08:323][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.10:817][326]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 143
+[2021.09.30-03.48.10:817][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.48.11:049][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.09.30-03.48.11:049][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_180' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.09.30-03.48.11:049][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_243' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.09.30-03.48.11:049][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_256' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.09.30-03.48.11:049][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_268' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.09.30-03.48.11:049][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:UserConstructionScript' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.09.30-03.48.11:049][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.09.30-03.48.11:050][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.09.30-03.48.11:050][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.09.30-03.48.11:050][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Can Jump' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.09.30-03.48.11:050][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.09.30-03.48.11:050][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.09.30-03.48.11:050][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.09.30-03.48.11:050][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.09.30-03.48.11:050][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Can Jump' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.09.30-03.48.11:366][326]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 135
+[2021.09.30-03.48.11:366][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.48.11:876][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Aim_Space_Hip0BDB4FBD498F170B9EBCD9ADB8FE1FF0.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Aim_Space_Hip.uasset'
+[2021.09.30-03.48.12:151][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Aim_Space_Hip" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Aim_Space_Hip.uasset" SILENT=true
+[2021.09.30-03.48.12:152][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Aim_Space_HipEBBF3F5D46E1C624321299B276AFADF2.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Aim_Space_Hip.uasset'
+[2021.09.30-03.48.12:189][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Aim_Space_IronsightsFD04DC0A4B576DDBCEF175A9783BC71C.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Aim_Space_Ironsights.uasset'
+[2021.09.30-03.48.12:405][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Aim_Space_Ironsights" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Aim_Space_Ironsights.uasset" SILENT=true
+[2021.09.30-03.48.12:405][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Aim_Space_IronsightsC4FD3632464276F8280C248DA7DA2C2C.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Aim_Space_Ironsights.uasset'
+[2021.09.30-03.48.12:454][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/BS_CrouchWalk03445CEA44E0A4185B8040B3C6148CB5.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/BS_CrouchWalk.uasset'
+[2021.09.30-03.48.12:665][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/BS_CrouchWalk" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/BS_CrouchWalk.uasset" SILENT=true
+[2021.09.30-03.48.12:666][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/BS_CrouchWalkBC2794EC492ACFB51DFF3187CB16B548.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/BS_CrouchWalk.uasset'
+[2021.09.30-03.48.12:702][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/AnimStarterPack/BS_Jog" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/BS_Jog.uasset" SILENT=true
+[2021.09.30-03.48.12:708][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/BS_Jog02668041476E0E0CE26882B182C3117C.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/BS_Jog.uasset'
+[2021.09.30-03.48.12:961][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/BS_Jog" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/BS_Jog.uasset" SILENT=true
+[2021.09.30-03.48.12:962][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/BS_Jog7AD1654A4A790CCF700D8EAF0300ED11.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/BS_Jog.uasset'
+[2021.09.30-03.48.13:311][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2021.09.30-03.48.13:319][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Idle_Rifle_Hip770887A34A41258D71B22A98DE883D1E.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset'
+[2021.09.30-03.48.13:565][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Idle_Rifle_Hip33BB387C4E257E2428C3F1983EB670DA.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset'
+[2021.09.30-03.48.13:912][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights
+[2021.09.30-03.48.13:919][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Idle_Rifle_IronsightsC55277794031015B9DF4AE91806253FA.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.14:132][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Idle_Rifle_Ironsights2F18F3BE40D681FD42228E884C9D7FDD.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.14:197][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip
+[2021.09.30-03.48.14:197][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_to_Stand_Rifle_HipE3D0322B44CFD53143B03FB3AFFD47CF.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset'
+[2021.09.30-03.48.14:404][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_to_Stand_Rifle_Hip90A8E3BD472614F312C17B817883A275.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset'
+[2021.09.30-03.48.14:491][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights
+[2021.09.30-03.48.14:491][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_to_Stand_Rifle_IronsightsA3A4DC9840DA31081AB1EE91B3847A08.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.14:712][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_to_Stand_Rifle_Ironsights9542694F412F6E7E45CB0CB2FAE39895.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.14:869][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2021.09.30-03.48.14:869][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Bwd_Rifle_HipD8CDE9BF4865C2BB4C1033B317D162F4.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2021.09.30-03.48.15:078][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Bwd_Rifle_Hip2C0779B44C0DCD242EE744849CC6692B.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2021.09.30-03.48.15:235][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2021.09.30-03.48.15:235][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Bwd_Rifle_IronsightsB223069D43086EC9AC8E6284776D943E.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.15:448][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Bwd_Rifle_IronsightsF74DDDC04244CE47B9AD17AD7F65ACDA.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.15:591][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2021.09.30-03.48.15:591][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Fwd_Rifle_HipAF27A0334AB14E9C1A4841AA7E5E6DB7.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2021.09.30-03.48.15:799][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Fwd_Rifle_HipF4652CB54990C7961CF040813A87996B.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2021.09.30-03.48.15:935][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2021.09.30-03.48.15:935][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Fwd_Rifle_IronsightsD561B35E4AF3CF874197A99E04F554DA.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.16:140][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Fwd_Rifle_Ironsights8B723BDA402DB0AE38A329BFA479E19F.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.16:303][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2021.09.30-03.48.16:303][326]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 141
+[2021.09.30-03.48.16:303][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.48.16:303][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Lt_Rifle_Hip7AA731ED41293361EEFCF99443E39257.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2021.09.30-03.48.16:521][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Lt_Rifle_HipA1A9DDEF4378E93E228A1F92CA63A14F.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2021.09.30-03.48.16:691][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2021.09.30-03.48.16:691][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Lt_Rifle_Ironsights38D0585D479E0426FEA0FB8DD1F50134.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.16:915][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Lt_Rifle_Ironsights29699BA2453155529E61E3A8E06CFF6A.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.17:063][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2021.09.30-03.48.17:063][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Rt_Rifle_Hip5D8DD3E041DE82B3216A62A845717C38.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2021.09.30-03.48.17:261][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Rt_Rifle_Hip49375ECF4B9E943E53D2E8B502B1402F.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2021.09.30-03.48.17:410][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2021.09.30-03.48.17:410][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Rt_Rifle_IronsightsCA1CC49F43CB9547E8AAACB9C63B6070.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.17:646][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Rt_Rifle_IronsightsAD4F330446CE0F2CEAA00F9B00C0579C.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.17:673][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/AnimStarterPack/Death_1" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Death_1.uasset" SILENT=true
+[2021.09.30-03.48.17:831][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_1.Death_1
+[2021.09.30-03.48.17:831][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_1B7CD2D8F41B4660BDA3F369750C7D7C0.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Death_1.uasset'
+[2021.09.30-03.48.18:044][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_1" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_1.uasset" SILENT=true
+[2021.09.30-03.48.18:044][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_18F4EAEA24DCF6808CE91BCA3C0563883.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_1.uasset'
+[2021.09.30-03.48.18:073][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/AnimStarterPack/Death_2" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Death_2.uasset" SILENT=true
+[2021.09.30-03.48.18:221][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_2.Death_2
+[2021.09.30-03.48.18:221][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_25B9DFE4945F230785F66E6A237ED749C.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Death_2.uasset'
+[2021.09.30-03.48.18:439][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_2" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_2.uasset" SILENT=true
+[2021.09.30-03.48.18:439][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_25A5EF60D414C78A049C0A6A195EC4C82.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_2.uasset'
+[2021.09.30-03.48.18:476][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/AnimStarterPack/Death_3" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Death_3.uasset" SILENT=true
+[2021.09.30-03.48.18:636][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_3.Death_3
+[2021.09.30-03.48.18:637][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_36497F1B14C388201C57904A8C203F4AE.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Death_3.uasset'
+[2021.09.30-03.48.18:854][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_3" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_3.uasset" SILENT=true
+[2021.09.30-03.48.18:854][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_32AA155814DA26300AC621EA59F9217C1.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_3.uasset'
+[2021.09.30-03.48.19:053][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1
+[2021.09.30-03.48.19:059][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_Ironsights_114D7D13449215B20EA2712B8A6757F14.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Death_Ironsights_1.uasset'
+[2021.09.30-03.48.19:262][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_Ironsights_1" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_Ironsights_1.uasset" SILENT=true
+[2021.09.30-03.48.19:263][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_Ironsights_1443F7064497CD754EA1281ADE7162020.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_Ironsights_1.uasset'
+[2021.09.30-03.48.19:453][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2
+[2021.09.30-03.48.19:453][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_Ironsights_268994A984E28A5E762D5BFA2F70277AF.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Death_Ironsights_2.uasset'
+[2021.09.30-03.48.19:672][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_Ironsights_2" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_Ironsights_2.uasset" SILENT=true
+[2021.09.30-03.48.19:672][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_Ironsights_21750FAF04CCA65ECFD6CFF9199239871.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_Ironsights_2.uasset'
+[2021.09.30-03.48.19:854][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing
+[2021.09.30-03.48.19:854][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Equip_Pistol_Standing0FE76FAD481C47D8C083BFBC19F9977E.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Equip_Pistol_Standing.uasset'
+[2021.09.30-03.48.20:102][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Equip_Pistol_Standing2047A7CA4AA4A755CD8ABE937A680631.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Equip_Pistol_Standing.uasset'
+[2021.09.30-03.48.20:288][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing
+[2021.09.30-03.48.20:288][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Equip_Rifle_Standing28EC69FB45711022DFFB21BCF3E19C3B.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Equip_Rifle_Standing.uasset'
+[2021.09.30-03.48.20:495][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Equip_Rifle_Standing" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Equip_Rifle_Standing.uasset" SILENT=true
+[2021.09.30-03.48.20:496][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Equip_Rifle_Standing61B827B94D84AFE4C48AB492F3A6FBBF.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Equip_Rifle_Standing.uasset'
+[2021.09.30-03.48.20:539][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip
+[2021.09.30-03.48.20:539][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Fire_Rifle_Hip98EBB3264F80B9B10F343DBCBE597016.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Fire_Rifle_Hip.uasset'
+[2021.09.30-03.48.20:791][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Fire_Rifle_Hip" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Fire_Rifle_Hip.uasset" SILENT=true
+[2021.09.30-03.48.20:791][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Fire_Rifle_HipAE90BE51466F69409AA255AD3A1BB885.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Fire_Rifle_Hip.uasset'
+[2021.09.30-03.48.20:846][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights
+[2021.09.30-03.48.20:846][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Fire_Rifle_Ironsights28FE8DFE42B025B42BEAF4AB0CBF3ABF.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Fire_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.21:050][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Fire_Rifle_IronsightsF022B1E84D719F7C2F3B07A8810F37CF.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.21:164][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Hip.Fire_Shotgun_Hip
+[2021.09.30-03.48.21:164][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Fire_Shotgun_HipCA0FC46B486FFAD89A9825AF80BD9756.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Fire_Shotgun_Hip.uasset'
+[2021.09.30-03.48.21:369][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Fire_Shotgun_Hip" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset" SILENT=true
+[2021.09.30-03.48.21:370][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Fire_Shotgun_HipF9778E7841AD1C1B454BB8AD9B2285C8.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset'
+[2021.09.30-03.48.21:470][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights
+[2021.09.30-03.48.21:470][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Fire_Shotgun_Ironsights45ED9F444FCB805D69450FBA41C776C8.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Fire_Shotgun_Ironsights.uasset'
+[2021.09.30-03.48.21:676][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Fire_Shotgun_IronsightsE4300DF94C40509BC66CD0B14BDEABCF.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset'
+[2021.09.30-03.48.21:705][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/AnimStarterPack/Hit_React_1" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Hit_React_1.uasset" SILENT=true
+[2021.09.30-03.48.21:768][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1
+[2021.09.30-03.48.21:768][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Hit_React_1AEBC7D2041B7D8901EF680968F1F76AC.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Hit_React_1.uasset'
+[2021.09.30-03.48.21:980][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_1" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Hit_React_1.uasset" SILENT=true
+[2021.09.30-03.48.21:980][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Hit_React_1F604D0AC4DF24C497AF5248775A50FED.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Hit_React_1.uasset'
+[2021.09.30-03.48.22:007][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/AnimStarterPack/Hit_React_2" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Hit_React_2.uasset" SILENT=true
+[2021.09.30-03.48.22:064][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_2.Hit_React_2
+[2021.09.30-03.48.22:064][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Hit_React_29278838046517087844B9094ABC32D57.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Hit_React_2.uasset'
+[2021.09.30-03.48.22:264][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_2" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Hit_React_2.uasset" SILENT=true
+[2021.09.30-03.48.22:265][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Hit_React_214EA2A724F9D51898A4917BB899D3B7A.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Hit_React_2.uasset'
+[2021.09.30-03.48.22:296][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/AnimStarterPack/Hit_React_3" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Hit_React_3.uasset" SILENT=true
+[2021.09.30-03.48.22:413][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_3.Hit_React_3
+[2021.09.30-03.48.22:413][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Hit_React_38C7B3DCD4152A5D37AD3199A02D472FC.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Hit_React_3.uasset'
+[2021.09.30-03.48.22:630][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_3" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Hit_React_3.uasset" SILENT=true
+[2021.09.30-03.48.22:630][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Hit_React_3897A49AE4BFE57CA039E1E8C4D45D9CB.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Hit_React_3.uasset'
+[2021.09.30-03.48.22:663][326]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 131
+[2021.09.30-03.48.22:663][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.48.22:669][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/AnimStarterPack/Hit_React_4" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Hit_React_4.uasset" SILENT=true
+[2021.09.30-03.48.22:727][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_4.Hit_React_4
+[2021.09.30-03.48.22:727][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Hit_React_49F9BFE214A3C39AD2044A7B4C0091B11.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Hit_React_4.uasset'
+[2021.09.30-03.48.22:728][326]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 121
+[2021.09.30-03.48.22:728][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.48.22:929][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_4" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Hit_React_4.uasset" SILENT=true
+[2021.09.30-03.48.22:930][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Hit_React_480C1F30A4EFC20EFFA0DCF9B50A02E8D.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Hit_React_4.uasset'
+[2021.09.30-03.48.23:007][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/AnimStarterPack/Idle_Pistol" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Idle_Pistol.uasset" SILENT=true
+[2021.09.30-03.48.23:308][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Pistol.Idle_Pistol
+[2021.09.30-03.48.23:314][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_Pistol02A589004F98A166674018B32BB15F16.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Idle_Pistol.uasset'
+[2021.09.30-03.48.23:538][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Idle_Pistol" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Idle_Pistol.uasset" SILENT=true
+[2021.09.30-03.48.23:539][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_PistolD7E8BA7341CE0DFF7EFFA5B38B85FBA1.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Idle_Pistol.uasset'
+[2021.09.30-03.48.23:923][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2021.09.30-03.48.23:923][326]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 111
+[2021.09.30-03.48.23:923][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.48.23:929][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_Rifle_Hip3A9175974CB36C5FECA483B080F3FE18.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Idle_Rifle_Hip.uasset'
+[2021.09.30-03.48.24:181][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Idle_Rifle_Hip" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Idle_Rifle_Hip.uasset" SILENT=true
+[2021.09.30-03.48.24:182][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_Rifle_Hip9F2E02C740C77F10862ED5941647AEFE.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Idle_Rifle_Hip.uasset'
+[2021.09.30-03.48.24:465][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1
+[2021.09.30-03.48.24:473][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_Rifle_Hip_Break1AD499CF64D4A8EA916AAD4931D68E698.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset'
+[2021.09.30-03.48.24:680][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_Rifle_Hip_Break1C38D7A564EF864BE7148B28BF904C0E0.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset'
+[2021.09.30-03.48.25:051][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break2.Idle_Rifle_Hip_Break2
+[2021.09.30-03.48.25:057][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_Rifle_Hip_Break2D78CD44E4F09286597984F84019B5906.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset'
+[2021.09.30-03.48.25:286][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_Rifle_Hip_Break2A3EF7B304C7A5FFA82CD259BA0DDE3E4.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset'
+[2021.09.30-03.48.25:665][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2021.09.30-03.48.25:671][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_Rifle_Ironsights216AA76744FAE3511DBEE78C500B06D0.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Idle_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.25:898][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_Rifle_Ironsights48A6DD744AB9EF630F48E08A3FC4B495.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.26:006][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2021.09.30-03.48.26:006][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Jog_Bwd_Rifle2FD120A24780915A2BA2D3BBA0352BB4.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Jog_Bwd_Rifle.uasset'
+[2021.09.30-03.48.26:221][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Bwd_Rifle" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" SILENT=true
+[2021.09.30-03.48.26:222][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Jog_Bwd_RifleA5DAECEC46E1684082829B8C3F5C992D.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset'
+[2021.09.30-03.48.26:337][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2021.09.30-03.48.26:337][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Jog_Fwd_Rifle18DEE9E64E1C269B5B1C42AC4FF06038.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Jog_Fwd_Rifle.uasset'
+[2021.09.30-03.48.26:550][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Fwd_Rifle" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" SILENT=true
+[2021.09.30-03.48.26:551][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Jog_Fwd_RifleDBF485D7475237108E278A8284904325.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset'
+[2021.09.30-03.48.26:661][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2021.09.30-03.48.26:661][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Jog_Lt_RifleDAA3FF8442E9258BB1373AA6573BEC71.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Jog_Lt_Rifle.uasset'
+[2021.09.30-03.48.26:873][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Lt_Rifle" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Jog_Lt_Rifle.uasset" SILENT=true
+[2021.09.30-03.48.26:873][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Jog_Lt_RifleEFA8A2E04EC74907ED96AEAA573FC734.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Jog_Lt_Rifle.uasset'
+[2021.09.30-03.48.26:995][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2021.09.30-03.48.26:995][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Jog_Rt_Rifle18C0ABB04BA77CB949F6AAA93CA89EA4.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Jog_Rt_Rifle.uasset'
+[2021.09.30-03.48.27:200][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Rt_Rifle" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Jog_Rt_Rifle.uasset" SILENT=true
+[2021.09.30-03.48.27:201][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Jog_Rt_Rifle5DA7131E4CF40A194AE0569A2E63C886.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Jog_Rt_Rifle.uasset'
+[2021.09.30-03.48.27:280][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog
+[2021.09.30-03.48.27:280][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Jump_From_JogB2D9B0D74C477F814EAA579777EDE327.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Jump_From_Jog.uasset'
+[2021.09.30-03.48.27:432][326]LogRHI: Error: Present Fail Count 1
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SyncInterval 0
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.BufferDesc.Width 532
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.BufferDesc.Height 90
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.OutputWindow 00000000003B037C
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.09.30-03.48.27:480][326]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:356 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2021.09.30-03.48.27:480][326]LogD3D11RHI: [Aftermath] GDynamicRHI=000002C81A459AC0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.09.30-03.48.27:480][326]LogWindows: Windows GetLastError: Операция успешно завершена. (0)

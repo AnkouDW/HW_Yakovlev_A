@@ -980,3 +980,467 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.30-03.40.36:380][861]LogWindows: Warning: CreateProc failed: Отказано в доступе. (0x00000005)
 [2021.09.30-03.40.36:380][861]LogWindows: Warning: URL: e:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/ version
 [2021.09.30-03.40.53:256][252]LogSlate: Window 'Source Control Login' being destroyed
+[2021.09.30-03.47.01:473][570]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.30-03.47.01:488][570]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.30-03.47.07:767][288]LogContentBrowser: Attempting asset rename: NewFolder -> Main
+[2021.09.30-03.47.07:768][288]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.30-03.47.12:398][805]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.30-03.47.12:411][805]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.30-03.47.17:541][413]LogContentBrowser: Attempting asset rename: NewFolder -> Download
+[2021.09.30-03.47.17:542][413]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.30-03.47.19:954][675]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.30-03.47.19:974][675]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.30-03.47.27:913][625]LogContentBrowser: Attempting asset rename: NewFolder -> Trash
+[2021.09.30-03.47.27:913][625]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.30-03.47.53:323][326]LogSlate: Took 0.011029 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.30-03.47.53:535][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2021.09.30-03.47.53:535][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights
+[2021.09.30-03.47.53:912][326]LogTexture: Display: Building textures: UE4Man_Logo_N (OODLE_BC5, 512X512)
+[2021.09.30-03.47.53:912][326]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (OODLE_DXT1, 512X512)
+[2021.09.30-03.47.53:913][326]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (OODLE_AutoDXT, 1024X1024)
+[2021.09.30-03.47.53:913][326]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.30-03.47.53:913][326]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (OODLE_DXT1, 512X512)
+[2021.09.30-03.47.54:024][326]LogTexture: Display: Building textures: T_ML_Aluminum01_N (OODLE_BC5, 512X512)
+[2021.09.30-03.47.54:024][326]LogTexture: Display: Building textures: UE4_Mannequin__normals (OODLE_BC5, 2048X2048)
+[2021.09.30-03.47.54:024][326]LogTexture: Display: Building textures: T_ML_Aluminum01 (OODLE_DXT1, 512X512)
+[2021.09.30-03.47.54:036][326]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.30-03.47.54:036][326]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (OODLE_BC5, 512X512)
+[2021.09.30-03.47.54:208][326]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.30-03.47.54:208][326]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 512X512)
+[2021.09.30-03.47.54:208][326]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2021.09.30-03.47.54:208][326]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 98F62F570888EA2AAD649D3A52E86914B759EB4E), compiling. 
+[2021.09.30-03.47.54:492][326]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 512X512)
+[2021.09.30-03.47.54:492][326]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2021.09.30-03.47.54:492][326]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 512X256)
+[2021.09.30-03.47.54:492][326]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 64X32)
+[2021.09.30-03.47.54:492][326]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X256)
+[2021.09.30-03.47.54:492][326]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 64X32)
+[2021.09.30-03.47.54:492][326]LogShaderCompilers: Display: Submitted 88 shader compile jobs with 'Low' priority
+[2021.09.30-03.47.54:613][326]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 88
+[2021.09.30-03.47.54:613][326]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 78
+[2021.09.30-03.47.54:613][326]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 68
+[2021.09.30-03.47.54:613][326]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Low' priority
+[2021.09.30-03.47.54:613][326]LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: B2B116A4FA40C1B21A8FB72F194106206D1E385C), compiling. 
+[2021.09.30-03.47.54:690][326]LogShaderCompilers: Display: Submitted 88 shader compile jobs with 'Low' priority
+[2021.09.30-03.47.54:931][326]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2021.09.30-03.47.55:032][326]LogSkeletalMesh: Built Skeletal Mesh [0.26s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2021.09.30-03.47.55:048][326]LogMaterial: Display: Missing cached shadermap for M_Template_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 7E357866895F2D24062F5EB4F7EDF06970926F36), compiling. 
+[2021.09.30-03.47.55:104][326]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2021.09.30-03.47.55:356][326]LogActorComponent: RegisterComponentWithWorld: (/Game/AnimStarterPack/Showcase.Showcase:PersistentLevel.WorldSettings.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.09.30-03.47.56:072][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights
+[2021.09.30-03.47.56:072][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2021.09.30-03.47.56:072][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Ironsights.Reload_Shotgun_Ironsights
+[2021.09.30-03.47.56:072][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip
+[2021.09.30-03.47.56:072][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights
+[2021.09.30-03.47.56:072][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Hip.Reload_Rifle_Hip
+[2021.09.30-03.47.56:072][326]LogBlueprint: Warning: [AssetLog] F:\AnkouDW\Unreal Projects\HW_Yakovlev_A\HW_Yakovlev_A 4.27\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2021.09.30-03.47.56:186][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Pistol.Reload_Pistol
+[2021.09.30-03.47.56:414][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_To_Stand.Prone_To_Stand
+[2021.09.30-03.47.56:414][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Shotgun.Prone_Reload_Shotgun
+[2021.09.30-03.47.56:597][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Rifle.Prone_Reload_Rifle
+[2021.09.30-03.47.56:597][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Idle.Prone_Idle
+[2021.09.30-03.47.56:597][326]LogLinker: Warning: [AssetLog] F:\AnkouDW\Unreal Projects\HW_Yakovlev_A\HW_Yakovlev_A 4.27\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.09.30-03.47.56:597][326]LogLinker: Warning: [AssetLog] F:\AnkouDW\Unreal Projects\HW_Yakovlev_A\HW_Yakovlev_A 4.27\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.09.30-03.47.56:597][326]LogLinker: Warning: [AssetLog] F:\AnkouDW\Unreal Projects\HW_Yakovlev_A\HW_Yakovlev_A 4.27\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.09.30-03.47.56:598][326]LogLinker: Warning: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.09.30-03.47.56:598][326]LogLinker: Warning: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.09.30-03.47.56:603][326]LogLinker: Warning: [AssetLog] F:\AnkouDW\Unreal Projects\HW_Yakovlev_A\HW_Yakovlev_A 4.27\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.09.30-03.47.56:628][326]LoadErrors: Failed to load /Game/FPWeapon/Mesh/SK_FPGun.SK_FPGun Referenced by FP_Gun_GEN_VARIABLE
+[2021.09.30-03.47.57:392][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_2.Prone_Fire_2
+[2021.09.30-03.47.58:388][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights
+[2021.09.30-03.47.58:388][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights
+[2021.09.30-03.47.58:388][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2021.09.30-03.47.58:388][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2021.09.30-03.47.58:388][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_To_Prone.Stand_To_Prone
+[2021.09.30-03.47.58:388][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights
+[2021.09.30-03.47.58:617][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip
+[2021.09.30-03.47.58:617][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_1.Prone_Fire_1
+[2021.09.30-03.47.58:617][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_2.Prone_Death_2
+[2021.09.30-03.47.58:827][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_1.Prone_Death_1
+[2021.09.30-03.47.58:827][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand_Ironsights.Jump_From_Stand_Ironsights
+[2021.09.30-03.47.58:827][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand
+[2021.09.30-03.47.58:996][326]LogMaterial: Display: Missing cached shadermap for M_AssetPlatform in PCD3D_SM5, Default, SM5 (DDC key hash: 6AA9F742F68EFB7CAC5973768DBF02BFB5BC66E7), compiling. 
+[2021.09.30-03.47.59:021][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.00:598][326]LogMaterial: Display: Missing cached shadermap for M_Radial_Gradient in PCD3D_SM5, Default, SM5 (DDC key hash: C2841E0F8E4F4CD1405007261DBF6D4E41A213EC), compiling. 
+[2021.09.30-03.48.00:705][326]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.00:707][326]LogMaterial: Display: Missing cached shadermap for M_Heat_Distortion in PCD3D_SM5, Default, SM5 (DDC key hash: B053E766DFB02277C274685DA5E2D6521F4ECD72), compiling. 
+[2021.09.30-03.48.00:807][326]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.00:808][326]LogMaterial: Display: Missing cached shadermap for M_Fire_SubUV in PCD3D_SM5, Default, SM5 (DDC key hash: B56B1E9EAB1AA325F6F927E45362DB6C77154A07), compiling. 
+[2021.09.30-03.48.00:839][326]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.00:902][326]LogMaterial: Display: Missing cached shadermap for M_Spark in PCD3D_SM5, Default, SM5 (DDC key hash: C198A6D0B1339B861238B3099EF3252CE1E69234), compiling. 
+[2021.09.30-03.48.00:935][326]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.01:147][326]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2021.09.30-03.48.01:608][326]LogMaterial: Display: Missing cached shadermap for M_LightStage_Arrows in PCD3D_SM5, Default, SM5 (DDC key hash: EE84B470D857DA23D80A2EA6066EE0DBE38CC655), compiling. 
+[2021.09.30-03.48.01:614][326]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.01:643][326]LogMaterial: Display: Missing cached shadermap for M_LightStage_Skybox_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 319760BB7FF317F77AD762AA37E5887C38C42E23), compiling. 
+[2021.09.30-03.48.01:649][326]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.01:650][326]LogMaterial: Display: Missing cached shadermap for M_LightStage_Skybox_HDRI in PCD3D_SM5, Default, SM5 (DDC key hash: F24E115079D23CE727C355BAED6BA4F3047B6AF8), compiling. 
+[2021.09.30-03.48.01:656][326]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.01:839][326]LogMaterial: Display: Missing cached shadermap for M_GreyBall in PCD3D_SM5, Default, SM5 (DDC key hash: EED536CE3D9D5136495C87E0E3782CCDD50B657C), compiling. 
+[2021.09.30-03.48.01:867][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.01:906][326]LogMaterial: Display: Missing cached shadermap for M_ColorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 2F7A22EAC3B2B3F949F3B7E3A7FADFF47FB22593), compiling. 
+[2021.09.30-03.48.01:933][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.01:983][326]LogMaterial: Display: Missing cached shadermap for M_ClearCoatBlack in PCD3D_SM5, Default, SM5 (DDC key hash: 7251D59505F4E773E81E49C5FBDC77F9453A3D47), compiling. 
+[2021.09.30-03.48.02:012][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.02:014][326]LogMaterial: Display: Missing cached shadermap for M_ClearCoat in PCD3D_SM5, Default, SM5 (DDC key hash: 50ACDFFCCC09DC0928202652A339AD4F78C4250B), compiling. 
+[2021.09.30-03.48.02:041][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.02:591][326]LogTexture: Display: Building textures: DeprecatedTextureF60039EB445BD313D9FB3B83A10248ED (BGRA8, 128X128)
+[2021.09.30-03.48.03:382][326]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2021.09.30-03.48.03:389][326]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2021.09.30-03.48.04:539][326]LogMaterial: Display: Missing cached shadermap for M_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 8D71DF1DD3C1A0244276B6CC29A5E4E506EB3B72), compiling. 
+[2021.09.30-03.48.04:624][326]LogShaderCompilers: Display: Submitted 46 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.04:826][326]LogMaterial: Display: Missing cached shadermap for M_Frame in PCD3D_SM5, Default, SM5 (DDC key hash: A7BEDD3D6D22E5019CB87B3612FB7973C7DFDBDA), compiling. 
+[2021.09.30-03.48.04:853][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:123][326]LogMaterial: Display: Missing cached shadermap for M_Dust_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 78ADCF286D2D6307B216349C2F2431D43EB01C91), compiling. 
+[2021.09.30-03.48.05:273][326]LogShaderCompilers: Display: Submitted 128 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:292][326]LogMaterial: Display: Missing cached shadermap for M_Wood_Walnut in PCD3D_SM5, Default, SM5 (DDC key hash: E25FC85464A874F3CFDFA0BF7511EE001B98AF30), compiling. 
+[2021.09.30-03.48.05:321][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:325][326]LogMaterial: Display: Missing cached shadermap for M_Wood_Pine in PCD3D_SM5, Default, SM5 (DDC key hash: 26F8D070E10C50D027E3DFE34872290D0777D06E), compiling. 
+[2021.09.30-03.48.05:352][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:355][326]LogMaterial: Display: Missing cached shadermap for M_Wood_Oak in PCD3D_SM5, Default, SM5 (DDC key hash: 2D9E86BA73F1E798F65B94E74CE88B5776B43E08), compiling. 
+[2021.09.30-03.48.05:381][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:388][326]LogTexture: Display: Building textures: DeprecatedTexture23F9881A4F7D09FA85B8FFBAC56882BF (BGRA8, 128X128)
+[2021.09.30-03.48.05:388][326]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Worn in PCD3D_SM5, Default, SM5 (DDC key hash: 56A1E7E0A8A45A830042FBA07B5D1BBE8FDD6037), compiling. 
+[2021.09.30-03.48.05:427][326]LogTexture: Display: Building textures: DeprecatedTexture286B71FD456BBC57D3B875B63A2AF0AA (BGRA8, 128X128)
+[2021.09.30-03.48.05:427][326]LogTexture: Display: Building textures: DeprecatedTexture2A05A5254D431981518674B220E5E1A1 (BGRA8, 128X128)
+[2021.09.30-03.48.05:427][326]LogTexture: Display: Building textures: DeprecatedTexture310E58554010446A08107499F126CE3D (BGRA8, 128X128)
+[2021.09.30-03.48.05:427][326]LogTexture: Display: Building textures: DeprecatedTexture34034B4C417D9B375A592E9A23C11137 (BGRA8, 128X128)
+[2021.09.30-03.48.05:427][326]LogTexture: Display: Building textures: DeprecatedTexture3AD1786A42EB6F981CB7E1847869C35B (BGRA8, 128X128)
+[2021.09.30-03.48.05:427][326]LogTexture: Display: Building textures: DeprecatedTexture43ADA98049DD7D3E0EABF7B175F6CC97 (BGRA8, 128X128)
+[2021.09.30-03.48.05:427][326]LogTexture: Display: Building textures: DeprecatedTexture617F078740EB0F77ABFB678038ACFCA7 (BGRA8, 128X128)
+[2021.09.30-03.48.05:427][326]LogTexture: Display: Building textures: DeprecatedTextureB91D75A74080657D8AF886A1EE756E94 (BGRA8, 128X128)
+[2021.09.30-03.48.05:427][326]LogTexture: Display: Building textures: DeprecatedTextureF6495ADB4998903A4DCD9AAEAD18E643 (BGRA8, 128X128)
+[2021.09.30-03.48.05:427][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:429][326]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: E9B499C1AD4CF349287883E79BD6EAA9079C11D7), compiling. 
+[2021.09.30-03.48.05:465][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:467][326]LogMaterial: Display: Missing cached shadermap for M_Water_Ocean in PCD3D_SM5, Default, SM5 (DDC key hash: 4B83190CD99349A9D012CDCD6C5C3F7D7B100F1F), compiling. 
+[2021.09.30-03.48.05:493][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:494][326]LogMaterial: Display: Missing cached shadermap for M_Water_Lake in PCD3D_SM5, Default, SM5 (DDC key hash: B55EE3F997C9F658711328D4860A0949C5258641), compiling. 
+[2021.09.30-03.48.05:522][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:524][326]LogMaterial: Display: Missing cached shadermap for M_Tech_Panel in PCD3D_SM5, Default, SM5 (DDC key hash: 3A71C27845D7A3B1768EB2300ED9101D8D4B126E), compiling. 
+[2021.09.30-03.48.05:551][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:552][326]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: 4056ABD3EE6CD6F53DFF6BAC6CBF919CF69960C0), compiling. 
+[2021.09.30-03.48.05:580][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:582][326]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile in PCD3D_SM5, Default, SM5 (DDC key hash: 514E48D771E4CF046088A3F9D243D5BE754074C2), compiling. 
+[2021.09.30-03.48.05:608][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:609][326]LogMaterial: Display: Missing cached shadermap for M_Tech_Checker_Dot in PCD3D_SM5, Default, SM5 (DDC key hash: A621A60AE02F20EFC8017507571032E59920F313), compiling. 
+[2021.09.30-03.48.05:635][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:637][326]LogMaterial: Display: Missing cached shadermap for M_Rock_Slate in PCD3D_SM5, Default, SM5 (DDC key hash: 8BDFAAD561E3D4F1D180F5F7C830EF85C66F2718), compiling. 
+[2021.09.30-03.48.05:662][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:664][326]LogMaterial: Display: Missing cached shadermap for M_Rock_Sandstone in PCD3D_SM5, Default, SM5 (DDC key hash: 6BF7FA05F7964AB0DC1BB105CDECF2F0BAF3643E), compiling. 
+[2021.09.30-03.48.05:691][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:692][326]LogMaterial: Display: Missing cached shadermap for M_Rock_Marble_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: B6D464688E125B712068DA2E43973225FD83B530), compiling. 
+[2021.09.30-03.48.05:719][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:721][326]LogMaterial: Display: Missing cached shadermap for M_Rock_Basalt in PCD3D_SM5, Default, SM5 (DDC key hash: 0091620460B24D55F39111A3F54AB51BFF01FA09), compiling. 
+[2021.09.30-03.48.05:748][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:749][326]LogMaterial: Display: Missing cached shadermap for M_Metal_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: D7102CB9A6373B313A44E2C6EB23CCEA6EB027C8), compiling. 
+[2021.09.30-03.48.05:775][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:777][326]LogMaterial: Display: Missing cached shadermap for M_Metal_Rust in PCD3D_SM5, Default, SM5 (DDC key hash: 22BF179E654F1528BC361D3673D7306758B3E88B), compiling. 
+[2021.09.30-03.48.05:805][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:807][326]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 6A356364B70631467CD60DE5982E6E2D9D724462), compiling. 
+[2021.09.30-03.48.05:833][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:834][326]LogMaterial: Display: Missing cached shadermap for M_Metal_Chrome in PCD3D_SM5, Default, SM5 (DDC key hash: B388B0A48D80EE0998F9151D592B6231A28B531A), compiling. 
+[2021.09.30-03.48.05:862][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:863][326]LogMaterial: Display: Missing cached shadermap for M_Ground_Moss in PCD3D_SM5, Default, SM5 (DDC key hash: 9DFEB649FD8AFF244A0E669B14B227AB6B8AD9B7), compiling. 
+[2021.09.30-03.48.05:889][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:891][326]LogMaterial: Display: Missing cached shadermap for M_Ground_Gravel in PCD3D_SM5, Default, SM5 (DDC key hash: 5F66A7E67CB9CAEFD7F64689304A1F04BE96527A), compiling. 
+[2021.09.30-03.48.05:919][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:920][326]LogMaterial: Display: Missing cached shadermap for M_Ground_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: E83B7D2E8C95DC614807C3C7CE0535F07650DDA8), compiling. 
+[2021.09.30-03.48.05:948][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:949][326]LogMaterial: Display: Missing cached shadermap for M_Concrete_Tiles in PCD3D_SM5, Default, SM5 (DDC key hash: 8D3A47E3B31D151D9859C1242DD76DD2BA1385AD), compiling. 
+[2021.09.30-03.48.05:977][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.05:978][326]LogMaterial: Display: Missing cached shadermap for M_Concrete_Poured in PCD3D_SM5, Default, SM5 (DDC key hash: 4E2C2B40D75E95F0E5A64B847D2049A8BAABF44B), compiling. 
+[2021.09.30-03.48.06:006][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:007][326]LogMaterial: Display: Missing cached shadermap for M_Concrete_Panels in PCD3D_SM5, Default, SM5 (DDC key hash: DA369B21A11B560AF6CB626925B104D0B98552A2), compiling. 
+[2021.09.30-03.48.06:032][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:033][326]LogMaterial: Display: Missing cached shadermap for M_Concrete_Grime in PCD3D_SM5, Default, SM5 (DDC key hash: 069393C1B9D9B78CE86AE0BF2C05ADDF9C62A041), compiling. 
+[2021.09.30-03.48.06:062][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:064][326]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Smooth in PCD3D_SM5, Default, SM5 (DDC key hash: 9C4F47910A1A81D5EFF90F2D95737B2633D523EE), compiling. 
+[2021.09.30-03.48.06:094][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:096][326]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Rough in PCD3D_SM5, Default, SM5 (DDC key hash: 89B7FBBAFCF6AA28FDEA79DF694B2AABD3A2E5BE), compiling. 
+[2021.09.30-03.48.06:128][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:129][326]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Pebble in PCD3D_SM5, Default, SM5 (DDC key hash: 0C25B61D37561A7E0E0FDD56EAC3F9BD2BE71B54), compiling. 
+[2021.09.30-03.48.06:157][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:159][326]LogMaterial: Display: Missing cached shadermap for M_Ceramic_Tile_Checker in PCD3D_SM5, Default, SM5 (DDC key hash: 054EC83A29273A7C905A51307FEDBE40E21D12B3), compiling. 
+[2021.09.30-03.48.06:186][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:188][326]LogMaterial: Display: Missing cached shadermap for M_Brick_Hewn_Stone in PCD3D_SM5, Default, SM5 (DDC key hash: 29DED82354460230456CC7803CF9EA5816A47B83), compiling. 
+[2021.09.30-03.48.06:212][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:215][326]LogMaterial: Display: Missing cached shadermap for M_Brick_Cut_Stone in PCD3D_SM5, Default, SM5 (DDC key hash: 47B48F9739F7B79836CFB2F527FBE5DE4901BE4E), compiling. 
+[2021.09.30-03.48.06:244][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:245][326]LogMaterial: Display: Missing cached shadermap for M_Brick_Clay_Old in PCD3D_SM5, Default, SM5 (DDC key hash: 71E1F6624E010C12D556A8332FFD2949FB4726AD), compiling. 
+[2021.09.30-03.48.06:274][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:384][326]LogMaterial: Display: Missing cached shadermap for M_Brick_Clay_New in PCD3D_SM5, Default, SM5 (DDC key hash: 8EFAF3F6C8E795802FA74D2C47315472AC971489), compiling. 
+[2021.09.30-03.48.06:411][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:413][326]LogMaterial: Display: Missing cached shadermap for M_Brick_Clay_Beveled in PCD3D_SM5, Default, SM5 (DDC key hash: 8E224FE64189BA90AF57DF1788A47AFEF0E55672), compiling. 
+[2021.09.30-03.48.06:441][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:498][326]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.09.30-03.48.06:498][326]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.48.06:624][326]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.30-03.48.06:624][326]LogShaderCompilers: Display: Total job queries 1602, among them cache hits 0 (0.00%)
+[2021.09.30-03.48.06:624][326]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 10 distinct outputs (100.00%)
+[2021.09.30-03.48.06:637][326]LogShaderCompilers: Display: RAM used: 0.04 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.01%
+[2021.09.30-03.48.06:637][326]LogShaderCompilers: Display: ================================================
+[2021.09.30-03.48.06:704][326]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2021.09.30-03.48.06:704][326]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.48.06:914][326]LogMaterial: Display: Missing cached shadermap for M_ColorGrid_LowSpec in PCD3D_SM5, Default, SM5 (DDC key hash: 14BBFFF101C333C19BB6F3D0EF0ED96EC41213A7), compiling. 
+[2021.09.30-03.48.06:939][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.06:982][326]LogMaterial: Display: Missing cached shadermap for M_Bush in PCD3D_SM5, Default, SM5 (DDC key hash: F4477383CF68736DF369DB38B2555A16AC452252), compiling. 
+[2021.09.30-03.48.07:059][326]LogShaderCompilers: Display: Submitted 51 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.07:254][326]LogMaterial: Display: Missing cached shadermap for M_Door in PCD3D_SM5, Default, SM5 (DDC key hash: 5557BE28D989F1ED38757431128B571D70142DBA), compiling. 
+[2021.09.30-03.48.07:279][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.07:340][326]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 151
+[2021.09.30-03.48.07:340][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.48.07:341][326]LogMaterial: Display: Missing cached shadermap for M_MaterialSphere_Plain in PCD3D_SM5, Default, SM5 (DDC key hash: EFB90C4DB499F070E35432F098BD9CC789BCD651), compiling. 
+[2021.09.30-03.48.07:360][326]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.07:518][326]LogMaterial: Display: Missing cached shadermap for M_MaterialSphere in PCD3D_SM5, Default, SM5 (DDC key hash: 0CA103FC95060625E9B2C6F723E70293BF3A7093), compiling. 
+[2021.09.30-03.48.07:536][326]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.07:570][326]LogMaterial: Display: Missing cached shadermap for M_Rock in PCD3D_SM5, Default, SM5 (DDC key hash: B375CCFCE2D6E4F0158AB67534FB4F1842AE3355), compiling. 
+[2021.09.30-03.48.07:601][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.07:675][326]LogMaterial: Display: Missing cached shadermap for M_Shelf in PCD3D_SM5, Default, SM5 (DDC key hash: 5D96104305C3E6025AF2C90E9FBB31A6020425A1), compiling. 
+[2021.09.30-03.48.07:700][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.08:297][326]LogMaterial: Display: Missing cached shadermap for RampMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0246992DF99811697812838DEA9CCDB03B527C16), compiling. 
+[2021.09.30-03.48.08:323][326]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.30-03.48.10:817][326]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 143
+[2021.09.30-03.48.10:817][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.48.11:049][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.09.30-03.48.11:049][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_180' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.09.30-03.48.11:049][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_243' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.09.30-03.48.11:049][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_256' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.09.30-03.48.11:049][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_268' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.09.30-03.48.11:049][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:UserConstructionScript' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.09.30-03.48.11:049][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.09.30-03.48.11:050][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.09.30-03.48.11:050][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.09.30-03.48.11:050][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Can Jump' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.09.30-03.48.11:050][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.09.30-03.48.11:050][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.09.30-03.48.11:050][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.09.30-03.48.11:050][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.09.30-03.48.11:050][326]LogMetaData: Removing '/Game/Download/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Can Jump' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.09.30-03.48.11:366][326]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 135
+[2021.09.30-03.48.11:366][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.48.11:876][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Aim_Space_Hip0BDB4FBD498F170B9EBCD9ADB8FE1FF0.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Aim_Space_Hip.uasset'
+[2021.09.30-03.48.12:151][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Aim_Space_Hip" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Aim_Space_Hip.uasset" SILENT=true
+[2021.09.30-03.48.12:152][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Aim_Space_HipEBBF3F5D46E1C624321299B276AFADF2.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Aim_Space_Hip.uasset'
+[2021.09.30-03.48.12:189][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Aim_Space_IronsightsFD04DC0A4B576DDBCEF175A9783BC71C.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Aim_Space_Ironsights.uasset'
+[2021.09.30-03.48.12:405][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Aim_Space_Ironsights" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Aim_Space_Ironsights.uasset" SILENT=true
+[2021.09.30-03.48.12:405][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Aim_Space_IronsightsC4FD3632464276F8280C248DA7DA2C2C.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Aim_Space_Ironsights.uasset'
+[2021.09.30-03.48.12:454][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/BS_CrouchWalk03445CEA44E0A4185B8040B3C6148CB5.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/BS_CrouchWalk.uasset'
+[2021.09.30-03.48.12:665][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/BS_CrouchWalk" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/BS_CrouchWalk.uasset" SILENT=true
+[2021.09.30-03.48.12:666][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/BS_CrouchWalkBC2794EC492ACFB51DFF3187CB16B548.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/BS_CrouchWalk.uasset'
+[2021.09.30-03.48.12:702][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/AnimStarterPack/BS_Jog" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/BS_Jog.uasset" SILENT=true
+[2021.09.30-03.48.12:708][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/BS_Jog02668041476E0E0CE26882B182C3117C.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/BS_Jog.uasset'
+[2021.09.30-03.48.12:961][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/BS_Jog" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/BS_Jog.uasset" SILENT=true
+[2021.09.30-03.48.12:962][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/BS_Jog7AD1654A4A790CCF700D8EAF0300ED11.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/BS_Jog.uasset'
+[2021.09.30-03.48.13:311][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2021.09.30-03.48.13:319][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Idle_Rifle_Hip770887A34A41258D71B22A98DE883D1E.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset'
+[2021.09.30-03.48.13:565][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Idle_Rifle_Hip33BB387C4E257E2428C3F1983EB670DA.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset'
+[2021.09.30-03.48.13:912][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights
+[2021.09.30-03.48.13:919][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Idle_Rifle_IronsightsC55277794031015B9DF4AE91806253FA.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.14:132][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Idle_Rifle_Ironsights2F18F3BE40D681FD42228E884C9D7FDD.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.14:197][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip
+[2021.09.30-03.48.14:197][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_to_Stand_Rifle_HipE3D0322B44CFD53143B03FB3AFFD47CF.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset'
+[2021.09.30-03.48.14:404][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_to_Stand_Rifle_Hip90A8E3BD472614F312C17B817883A275.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset'
+[2021.09.30-03.48.14:491][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights
+[2021.09.30-03.48.14:491][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_to_Stand_Rifle_IronsightsA3A4DC9840DA31081AB1EE91B3847A08.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.14:712][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_to_Stand_Rifle_Ironsights9542694F412F6E7E45CB0CB2FAE39895.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.14:869][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2021.09.30-03.48.14:869][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Bwd_Rifle_HipD8CDE9BF4865C2BB4C1033B317D162F4.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2021.09.30-03.48.15:078][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Bwd_Rifle_Hip2C0779B44C0DCD242EE744849CC6692B.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2021.09.30-03.48.15:235][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2021.09.30-03.48.15:235][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Bwd_Rifle_IronsightsB223069D43086EC9AC8E6284776D943E.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.15:448][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Bwd_Rifle_IronsightsF74DDDC04244CE47B9AD17AD7F65ACDA.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.15:591][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2021.09.30-03.48.15:591][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Fwd_Rifle_HipAF27A0334AB14E9C1A4841AA7E5E6DB7.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2021.09.30-03.48.15:799][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Fwd_Rifle_HipF4652CB54990C7961CF040813A87996B.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2021.09.30-03.48.15:935][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2021.09.30-03.48.15:935][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Fwd_Rifle_IronsightsD561B35E4AF3CF874197A99E04F554DA.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.16:140][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Fwd_Rifle_Ironsights8B723BDA402DB0AE38A329BFA479E19F.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.16:303][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2021.09.30-03.48.16:303][326]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 141
+[2021.09.30-03.48.16:303][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.48.16:303][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Lt_Rifle_Hip7AA731ED41293361EEFCF99443E39257.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2021.09.30-03.48.16:521][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Lt_Rifle_HipA1A9DDEF4378E93E228A1F92CA63A14F.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2021.09.30-03.48.16:691][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2021.09.30-03.48.16:691][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Lt_Rifle_Ironsights38D0585D479E0426FEA0FB8DD1F50134.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.16:915][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Lt_Rifle_Ironsights29699BA2453155529E61E3A8E06CFF6A.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.17:063][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2021.09.30-03.48.17:063][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Rt_Rifle_Hip5D8DD3E041DE82B3216A62A845717C38.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2021.09.30-03.48.17:261][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Rt_Rifle_Hip49375ECF4B9E943E53D2E8B502B1402F.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2021.09.30-03.48.17:410][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2021.09.30-03.48.17:410][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Rt_Rifle_IronsightsCA1CC49F43CB9547E8AAACB9C63B6070.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.17:646][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Crouch_Walk_Rt_Rifle_IronsightsAD4F330446CE0F2CEAA00F9B00C0579C.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.17:673][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/AnimStarterPack/Death_1" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Death_1.uasset" SILENT=true
+[2021.09.30-03.48.17:831][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_1.Death_1
+[2021.09.30-03.48.17:831][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_1B7CD2D8F41B4660BDA3F369750C7D7C0.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Death_1.uasset'
+[2021.09.30-03.48.18:044][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_1" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_1.uasset" SILENT=true
+[2021.09.30-03.48.18:044][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_18F4EAEA24DCF6808CE91BCA3C0563883.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_1.uasset'
+[2021.09.30-03.48.18:073][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/AnimStarterPack/Death_2" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Death_2.uasset" SILENT=true
+[2021.09.30-03.48.18:221][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_2.Death_2
+[2021.09.30-03.48.18:221][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_25B9DFE4945F230785F66E6A237ED749C.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Death_2.uasset'
+[2021.09.30-03.48.18:439][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_2" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_2.uasset" SILENT=true
+[2021.09.30-03.48.18:439][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_25A5EF60D414C78A049C0A6A195EC4C82.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_2.uasset'
+[2021.09.30-03.48.18:476][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/AnimStarterPack/Death_3" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Death_3.uasset" SILENT=true
+[2021.09.30-03.48.18:636][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_3.Death_3
+[2021.09.30-03.48.18:637][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_36497F1B14C388201C57904A8C203F4AE.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Death_3.uasset'
+[2021.09.30-03.48.18:854][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_3" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_3.uasset" SILENT=true
+[2021.09.30-03.48.18:854][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_32AA155814DA26300AC621EA59F9217C1.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_3.uasset'
+[2021.09.30-03.48.19:053][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1
+[2021.09.30-03.48.19:059][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_Ironsights_114D7D13449215B20EA2712B8A6757F14.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Death_Ironsights_1.uasset'
+[2021.09.30-03.48.19:262][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_Ironsights_1" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_Ironsights_1.uasset" SILENT=true
+[2021.09.30-03.48.19:263][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_Ironsights_1443F7064497CD754EA1281ADE7162020.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_Ironsights_1.uasset'
+[2021.09.30-03.48.19:453][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2
+[2021.09.30-03.48.19:453][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_Ironsights_268994A984E28A5E762D5BFA2F70277AF.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Death_Ironsights_2.uasset'
+[2021.09.30-03.48.19:672][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Death_Ironsights_2" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_Ironsights_2.uasset" SILENT=true
+[2021.09.30-03.48.19:672][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Death_Ironsights_21750FAF04CCA65ECFD6CFF9199239871.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Death_Ironsights_2.uasset'
+[2021.09.30-03.48.19:854][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing
+[2021.09.30-03.48.19:854][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Equip_Pistol_Standing0FE76FAD481C47D8C083BFBC19F9977E.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Equip_Pistol_Standing.uasset'
+[2021.09.30-03.48.20:102][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Equip_Pistol_Standing2047A7CA4AA4A755CD8ABE937A680631.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Equip_Pistol_Standing.uasset'
+[2021.09.30-03.48.20:288][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing
+[2021.09.30-03.48.20:288][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Equip_Rifle_Standing28EC69FB45711022DFFB21BCF3E19C3B.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Equip_Rifle_Standing.uasset'
+[2021.09.30-03.48.20:495][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Equip_Rifle_Standing" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Equip_Rifle_Standing.uasset" SILENT=true
+[2021.09.30-03.48.20:496][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Equip_Rifle_Standing61B827B94D84AFE4C48AB492F3A6FBBF.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Equip_Rifle_Standing.uasset'
+[2021.09.30-03.48.20:539][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip
+[2021.09.30-03.48.20:539][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Fire_Rifle_Hip98EBB3264F80B9B10F343DBCBE597016.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Fire_Rifle_Hip.uasset'
+[2021.09.30-03.48.20:791][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Fire_Rifle_Hip" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Fire_Rifle_Hip.uasset" SILENT=true
+[2021.09.30-03.48.20:791][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Fire_Rifle_HipAE90BE51466F69409AA255AD3A1BB885.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Fire_Rifle_Hip.uasset'
+[2021.09.30-03.48.20:846][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights
+[2021.09.30-03.48.20:846][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Fire_Rifle_Ironsights28FE8DFE42B025B42BEAF4AB0CBF3ABF.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Fire_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.21:050][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Fire_Rifle_IronsightsF022B1E84D719F7C2F3B07A8810F37CF.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.21:164][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Hip.Fire_Shotgun_Hip
+[2021.09.30-03.48.21:164][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Fire_Shotgun_HipCA0FC46B486FFAD89A9825AF80BD9756.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Fire_Shotgun_Hip.uasset'
+[2021.09.30-03.48.21:369][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Fire_Shotgun_Hip" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset" SILENT=true
+[2021.09.30-03.48.21:370][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Fire_Shotgun_HipF9778E7841AD1C1B454BB8AD9B2285C8.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset'
+[2021.09.30-03.48.21:470][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights
+[2021.09.30-03.48.21:470][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Fire_Shotgun_Ironsights45ED9F444FCB805D69450FBA41C776C8.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Fire_Shotgun_Ironsights.uasset'
+[2021.09.30-03.48.21:676][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Fire_Shotgun_IronsightsE4300DF94C40509BC66CD0B14BDEABCF.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset'
+[2021.09.30-03.48.21:705][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/AnimStarterPack/Hit_React_1" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Hit_React_1.uasset" SILENT=true
+[2021.09.30-03.48.21:768][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1
+[2021.09.30-03.48.21:768][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Hit_React_1AEBC7D2041B7D8901EF680968F1F76AC.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Hit_React_1.uasset'
+[2021.09.30-03.48.21:980][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_1" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Hit_React_1.uasset" SILENT=true
+[2021.09.30-03.48.21:980][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Hit_React_1F604D0AC4DF24C497AF5248775A50FED.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Hit_React_1.uasset'
+[2021.09.30-03.48.22:007][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/AnimStarterPack/Hit_React_2" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Hit_React_2.uasset" SILENT=true
+[2021.09.30-03.48.22:064][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_2.Hit_React_2
+[2021.09.30-03.48.22:064][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Hit_React_29278838046517087844B9094ABC32D57.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Hit_React_2.uasset'
+[2021.09.30-03.48.22:264][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_2" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Hit_React_2.uasset" SILENT=true
+[2021.09.30-03.48.22:265][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Hit_React_214EA2A724F9D51898A4917BB899D3B7A.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Hit_React_2.uasset'
+[2021.09.30-03.48.22:296][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/AnimStarterPack/Hit_React_3" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Hit_React_3.uasset" SILENT=true
+[2021.09.30-03.48.22:413][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_3.Hit_React_3
+[2021.09.30-03.48.22:413][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Hit_React_38C7B3DCD4152A5D37AD3199A02D472FC.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Hit_React_3.uasset'
+[2021.09.30-03.48.22:630][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_3" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Hit_React_3.uasset" SILENT=true
+[2021.09.30-03.48.22:630][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Hit_React_3897A49AE4BFE57CA039E1E8C4D45D9CB.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Hit_React_3.uasset'
+[2021.09.30-03.48.22:663][326]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 131
+[2021.09.30-03.48.22:663][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.48.22:669][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/AnimStarterPack/Hit_React_4" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Hit_React_4.uasset" SILENT=true
+[2021.09.30-03.48.22:727][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_4.Hit_React_4
+[2021.09.30-03.48.22:727][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Hit_React_49F9BFE214A3C39AD2044A7B4C0091B11.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Hit_React_4.uasset'
+[2021.09.30-03.48.22:728][326]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 121
+[2021.09.30-03.48.22:728][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.48.22:929][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Hit_React_4" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Hit_React_4.uasset" SILENT=true
+[2021.09.30-03.48.22:930][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Hit_React_480C1F30A4EFC20EFFA0DCF9B50A02E8D.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Hit_React_4.uasset'
+[2021.09.30-03.48.23:007][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Download/AnimStarterPack/Idle_Pistol" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Idle_Pistol.uasset" SILENT=true
+[2021.09.30-03.48.23:308][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Pistol.Idle_Pistol
+[2021.09.30-03.48.23:314][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_Pistol02A589004F98A166674018B32BB15F16.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Idle_Pistol.uasset'
+[2021.09.30-03.48.23:538][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Idle_Pistol" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Idle_Pistol.uasset" SILENT=true
+[2021.09.30-03.48.23:539][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_PistolD7E8BA7341CE0DFF7EFFA5B38B85FBA1.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Idle_Pistol.uasset'
+[2021.09.30-03.48.23:923][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2021.09.30-03.48.23:923][326]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 111
+[2021.09.30-03.48.23:923][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.48.23:929][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_Rifle_Hip3A9175974CB36C5FECA483B080F3FE18.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Idle_Rifle_Hip.uasset'
+[2021.09.30-03.48.24:181][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Idle_Rifle_Hip" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Idle_Rifle_Hip.uasset" SILENT=true
+[2021.09.30-03.48.24:182][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_Rifle_Hip9F2E02C740C77F10862ED5941647AEFE.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Idle_Rifle_Hip.uasset'
+[2021.09.30-03.48.24:465][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1
+[2021.09.30-03.48.24:473][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_Rifle_Hip_Break1AD499CF64D4A8EA916AAD4931D68E698.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset'
+[2021.09.30-03.48.24:680][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_Rifle_Hip_Break1C38D7A564EF864BE7148B28BF904C0E0.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset'
+[2021.09.30-03.48.25:051][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break2.Idle_Rifle_Hip_Break2
+[2021.09.30-03.48.25:057][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_Rifle_Hip_Break2D78CD44E4F09286597984F84019B5906.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset'
+[2021.09.30-03.48.25:286][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_Rifle_Hip_Break2A3EF7B304C7A5FFA82CD259BA0DDE3E4.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset'
+[2021.09.30-03.48.25:665][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2021.09.30-03.48.25:671][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_Rifle_Ironsights216AA76744FAE3511DBEE78C500B06D0.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Idle_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.25:898][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Idle_Rifle_Ironsights48A6DD744AB9EF630F48E08A3FC4B495.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset'
+[2021.09.30-03.48.26:006][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2021.09.30-03.48.26:006][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Jog_Bwd_Rifle2FD120A24780915A2BA2D3BBA0352BB4.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Jog_Bwd_Rifle.uasset'
+[2021.09.30-03.48.26:221][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Bwd_Rifle" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" SILENT=true
+[2021.09.30-03.48.26:222][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Jog_Bwd_RifleA5DAECEC46E1684082829B8C3F5C992D.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset'
+[2021.09.30-03.48.26:337][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2021.09.30-03.48.26:337][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Jog_Fwd_Rifle18DEE9E64E1C269B5B1C42AC4FF06038.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Jog_Fwd_Rifle.uasset'
+[2021.09.30-03.48.26:550][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Fwd_Rifle" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" SILENT=true
+[2021.09.30-03.48.26:551][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Jog_Fwd_RifleDBF485D7475237108E278A8284904325.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset'
+[2021.09.30-03.48.26:661][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2021.09.30-03.48.26:661][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Jog_Lt_RifleDAA3FF8442E9258BB1373AA6573BEC71.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Jog_Lt_Rifle.uasset'
+[2021.09.30-03.48.26:873][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Lt_Rifle" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Jog_Lt_Rifle.uasset" SILENT=true
+[2021.09.30-03.48.26:873][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Jog_Lt_RifleEFA8A2E04EC74907ED96AEAA573FC734.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Jog_Lt_Rifle.uasset'
+[2021.09.30-03.48.26:995][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2021.09.30-03.48.26:995][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Jog_Rt_Rifle18C0ABB04BA77CB949F6AAA93CA89EA4.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Jog_Rt_Rifle.uasset'
+[2021.09.30-03.48.27:200][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Jog_Rt_Rifle" FILE="F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Jog_Rt_Rifle.uasset" SILENT=true
+[2021.09.30-03.48.27:201][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Jog_Rt_Rifle5DA7131E4CF40A194AE0569A2E63C886.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/AnimStarterPack/Jog_Rt_Rifle.uasset'
+[2021.09.30-03.48.27:280][326]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog
+[2021.09.30-03.48.27:280][326]LogSavePackage: Moving 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Saved/Jump_From_JogB2D9B0D74C477F814EAA579777EDE327.tmp' to 'F:/AnkouDW/Unreal Projects/HW_Yakovlev_A/HW_Yakovlev_A 4.27/Content/Download/AnimStarterPack/Jump_From_Jog.uasset'
+[2021.09.30-03.48.27:432][326]LogRHI: Error: Present Fail Count 1
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SyncInterval 0
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.BufferDesc.Width 532
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.BufferDesc.Height 90
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.OutputWindow 00000000003B037C
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.09.30-03.48.27:432][326]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.09.30-03.48.27:480][326]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:356 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2021.09.30-03.48.27:480][326]LogD3D11RHI: [Aftermath] GDynamicRHI=000002C81A459AC0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.09.30-03.48.27:480][326]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 101
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 91
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 81
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 71
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 61
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 51
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 41
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 989
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 979
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 969
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 959
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 949
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 939
+[2021.09.30-03.49.07:334][326]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.30-03.49.07:334][326]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.09.30-03.49.07:334][326]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2021.09.30-03.49.07:334][326]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.09.30-03.49.07:334][326]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.09.30-03.49.07:334][326]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2021.09.30-03.49.07:334][326]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2021.09.30-03.49.07:344][326]Log file closed, 09/30/21 06:49:07
